@@ -3818,35 +3818,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background de.appwerft.autofillerselector:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit de.appwerft.autofillerselector:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked de.appwerft.autofillerselector:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd de.appwerft.autofillerselector:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions de.appwerft.autofillerselector:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft de.appwerft.autofillerselector:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight de.appwerft.autofillerselector:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart de.appwerft.autofillerselector:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation de.appwerft.autofillerselector:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout de.appwerft.autofillerselector:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions de.appwerft.autofillerselector:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider de.appwerft.autofillerselector:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation de.appwerft.autofillerselector:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height de.appwerft.autofillerselector:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll de.appwerft.autofillerselector:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator de.appwerft.autofillerselector:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout de.appwerft.autofillerselector:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon de.appwerft.autofillerselector:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle de.appwerft.autofillerselector:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding de.appwerft.autofillerselector:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo de.appwerft.autofillerselector:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode de.appwerft.autofillerselector:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme de.appwerft.autofillerselector:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding de.appwerft.autofillerselector:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle de.appwerft.autofillerselector:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle de.appwerft.autofillerselector:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle de.appwerft.autofillerselector:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title de.appwerft.autofillerselector:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle de.appwerft.autofillerselector:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background de.appwerft.autofillselector:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit de.appwerft.autofillselector:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked de.appwerft.autofillselector:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd de.appwerft.autofillselector:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions de.appwerft.autofillselector:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft de.appwerft.autofillselector:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight de.appwerft.autofillselector:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart de.appwerft.autofillselector:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation de.appwerft.autofillselector:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout de.appwerft.autofillselector:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions de.appwerft.autofillselector:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider de.appwerft.autofillselector:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation de.appwerft.autofillselector:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height de.appwerft.autofillselector:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll de.appwerft.autofillselector:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator de.appwerft.autofillselector:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout de.appwerft.autofillselector:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon de.appwerft.autofillselector:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle de.appwerft.autofillselector:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding de.appwerft.autofillselector:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo de.appwerft.autofillselector:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode de.appwerft.autofillselector:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme de.appwerft.autofillselector:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding de.appwerft.autofillselector:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle de.appwerft.autofillselector:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle de.appwerft.autofillselector:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle de.appwerft.autofillselector:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title de.appwerft.autofillselector:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle de.appwerft.autofillselector:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3889,17 +3889,17 @@ containing a value of this type.
             0x7f010168
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#background}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:background
+          @attr name de.appwerft.autofillselector:background
         */
         public static int ActionBar_background = 8;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3907,11 +3907,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.appwerft.autofillerselector:backgroundSplit
+          @attr name de.appwerft.autofillselector:backgroundSplit
         */
         public static int ActionBar_backgroundSplit = 10;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3919,11 +3919,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.appwerft.autofillerselector:backgroundStacked
+          @attr name de.appwerft.autofillselector:backgroundStacked
         */
         public static int ActionBar_backgroundStacked = 9;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3935,11 +3935,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentInsetEnd
+          @attr name de.appwerft.autofillselector:contentInsetEnd
         */
         public static int ActionBar_contentInsetEnd = 19;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3951,11 +3951,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentInsetEndWithActions
+          @attr name de.appwerft.autofillselector:contentInsetEndWithActions
         */
         public static int ActionBar_contentInsetEndWithActions = 23;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3967,11 +3967,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentInsetLeft
+          @attr name de.appwerft.autofillselector:contentInsetLeft
         */
         public static int ActionBar_contentInsetLeft = 20;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3983,11 +3983,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentInsetRight
+          @attr name de.appwerft.autofillselector:contentInsetRight
         */
         public static int ActionBar_contentInsetRight = 21;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3999,11 +3999,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentInsetStart
+          @attr name de.appwerft.autofillselector:contentInsetStart
         */
         public static int ActionBar_contentInsetStart = 18;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4015,21 +4015,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentInsetStartWithNavigation
+          @attr name de.appwerft.autofillselector:contentInsetStartWithNavigation
         */
         public static int ActionBar_contentInsetStartWithNavigation = 22;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:customNavigationLayout
+          @attr name de.appwerft.autofillselector:customNavigationLayout
         */
         public static int ActionBar_customNavigationLayout = 11;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4047,21 +4047,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:displayOptions
+          @attr name de.appwerft.autofillselector:displayOptions
         */
         public static int ActionBar_displayOptions = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#divider}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:divider
+          @attr name de.appwerft.autofillselector:divider
         */
         public static int ActionBar_divider = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#elevation}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4073,11 +4073,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:elevation
+          @attr name de.appwerft.autofillselector:elevation
         */
         public static int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#height}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4089,11 +4089,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:height
+          @attr name de.appwerft.autofillselector:height
         */
         public static int ActionBar_height = 27;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4103,51 +4103,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:hideOnContentScroll
+          @attr name de.appwerft.autofillselector:hideOnContentScroll
         */
         public static int ActionBar_hideOnContentScroll = 17;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:homeAsUpIndicator
+          @attr name de.appwerft.autofillselector:homeAsUpIndicator
         */
         public static int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:homeLayout
+          @attr name de.appwerft.autofillselector:homeLayout
         */
         public static int ActionBar_homeLayout = 12;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#icon}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:icon
+          @attr name de.appwerft.autofillselector:icon
         */
         public static int ActionBar_icon = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:indeterminateProgressStyle
+          @attr name de.appwerft.autofillselector:indeterminateProgressStyle
         */
         public static int ActionBar_indeterminateProgressStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4159,21 +4159,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:itemPadding
+          @attr name de.appwerft.autofillselector:itemPadding
         */
         public static int ActionBar_itemPadding = 16;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#logo}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:logo
+          @attr name de.appwerft.autofillselector:logo
         */
         public static int ActionBar_logo = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4187,21 +4187,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:navigationMode
+          @attr name de.appwerft.autofillselector:navigationMode
         */
         public static int ActionBar_navigationMode = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:popupTheme
+          @attr name de.appwerft.autofillselector:popupTheme
         */
         public static int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4213,21 +4213,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:progressBarPadding
+          @attr name de.appwerft.autofillselector:progressBarPadding
         */
         public static int ActionBar_progressBarPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:progressBarStyle
+          @attr name de.appwerft.autofillselector:progressBarStyle
         */
         public static int ActionBar_progressBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4237,21 +4237,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:subtitle
+          @attr name de.appwerft.autofillselector:subtitle
         */
         public static int ActionBar_subtitle = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:subtitleTextStyle
+          @attr name de.appwerft.autofillselector:subtitleTextStyle
         */
         public static int ActionBar_subtitleTextStyle = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#title}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4261,17 +4261,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:title
+          @attr name de.appwerft.autofillselector:title
         */
         public static int ActionBar_title = 28;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:titleTextStyle
+          @attr name de.appwerft.autofillselector:titleTextStyle
         */
         public static int ActionBar_titleTextStyle = 3;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4323,12 +4323,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background de.appwerft.autofillerselector:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit de.appwerft.autofillerselector:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout de.appwerft.autofillerselector:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height de.appwerft.autofillerselector:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle de.appwerft.autofillerselector:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle de.appwerft.autofillerselector:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background de.appwerft.autofillselector:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit de.appwerft.autofillselector:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout de.appwerft.autofillselector:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height de.appwerft.autofillselector:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle de.appwerft.autofillselector:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle de.appwerft.autofillselector:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4342,17 +4342,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01002b, 0x7f010166
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#background}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:background
+          @attr name de.appwerft.autofillselector:background
         */
         public static int ActionMode_background = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4360,21 +4360,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.appwerft.autofillerselector:backgroundSplit
+          @attr name de.appwerft.autofillselector:backgroundSplit
         */
         public static int ActionMode_backgroundSplit = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:closeItemLayout
+          @attr name de.appwerft.autofillselector:closeItemLayout
         */
         public static int ActionMode_closeItemLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#height}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4386,27 +4386,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:height
+          @attr name de.appwerft.autofillselector:height
         */
         public static int ActionMode_height = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:subtitleTextStyle
+          @attr name de.appwerft.autofillselector:subtitleTextStyle
         */
         public static int ActionMode_subtitleTextStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:titleTextStyle
+          @attr name de.appwerft.autofillselector:titleTextStyle
         */
         public static int ActionMode_titleTextStyle = 0;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4415,8 +4415,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable de.appwerft.autofillerselector:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount de.appwerft.autofillerselector:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable de.appwerft.autofillselector:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount de.appwerft.autofillselector:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4425,17 +4425,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01002c, 0x7f01002d
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:expandActivityOverflowButtonDrawable
+          @attr name de.appwerft.autofillselector:expandActivityOverflowButtonDrawable
         */
         public static int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4445,7 +4445,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:initialActivityCount
+          @attr name de.appwerft.autofillselector:initialActivityCount
         */
         public static int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4455,13 +4455,13 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonIconDimen de.appwerft.autofillerselector:buttonIconDimen}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout de.appwerft.autofillerselector:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout de.appwerft.autofillerselector:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout de.appwerft.autofillerselector:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout de.appwerft.autofillerselector:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle de.appwerft.autofillerselector:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout de.appwerft.autofillerselector:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonIconDimen de.appwerft.autofillselector:buttonIconDimen}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout de.appwerft.autofillselector:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout de.appwerft.autofillselector:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout de.appwerft.autofillselector:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout de.appwerft.autofillselector:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle de.appwerft.autofillselector:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout de.appwerft.autofillselector:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonIconDimen
@@ -4483,7 +4483,7 @@ containing a value of this type.
         */
         public static int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#buttonIconDimen}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#buttonIconDimen}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4495,51 +4495,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:buttonIconDimen
+          @attr name de.appwerft.autofillselector:buttonIconDimen
         */
         public static int AlertDialog_buttonIconDimen = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:buttonPanelSideLayout
+          @attr name de.appwerft.autofillselector:buttonPanelSideLayout
         */
         public static int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:listItemLayout
+          @attr name de.appwerft.autofillselector:listItemLayout
         */
         public static int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:listLayout
+          @attr name de.appwerft.autofillselector:listLayout
         */
         public static int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:multiChoiceItemLayout
+          @attr name de.appwerft.autofillselector:multiChoiceItemLayout
         */
         public static int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4549,17 +4549,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:showTitle
+          @attr name de.appwerft.autofillselector:showTitle
         */
         public static int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:singleChoiceItemLayout
+          @attr name de.appwerft.autofillselector:singleChoiceItemLayout
         */
         public static int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4571,8 +4571,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
            <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation de.appwerft.autofillerselector:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded de.appwerft.autofillerselector:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation de.appwerft.autofillselector:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded de.appwerft.autofillselector:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_android_keyboardNavigationCluster
@@ -4603,7 +4603,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int AppBarLayout_android_touchscreenBlocksFocus = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#elevation}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4615,11 +4615,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:elevation
+          @attr name de.appwerft.autofillselector:elevation
         */
         public static int AppBarLayout_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#expanded}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4629,7 +4629,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:expanded
+          @attr name de.appwerft.autofillselector:expanded
         */
         public static int AppBarLayout_expanded = 4;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4638,8 +4638,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed de.appwerft.autofillerselector:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible de.appwerft.autofillerselector:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed de.appwerft.autofillselector:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible de.appwerft.autofillselector:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4648,7 +4648,7 @@ containing a value of this type.
             0x7f01011a, 0x7f01011b
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4658,11 +4658,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:state_collapsed
+          @attr name de.appwerft.autofillselector:state_collapsed
         */
         public static int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4672,7 +4672,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:state_collapsible
+          @attr name de.appwerft.autofillselector:state_collapsible
         */
         public static int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4681,8 +4681,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags de.appwerft.autofillerselector:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator de.appwerft.autofillerselector:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags de.appwerft.autofillselector:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator de.appwerft.autofillselector:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4691,7 +4691,7 @@ containing a value of this type.
             0x7f01011c, 0x7f01011d
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4707,17 +4707,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:layout_scrollFlags
+          @attr name de.appwerft.autofillselector:layout_scrollFlags
         */
         public static int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:layout_scrollInterpolator
+          @attr name de.appwerft.autofillselector:layout_scrollInterpolator
         */
         public static int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4727,9 +4727,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat de.appwerft.autofillerselector:srcCompat}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tint de.appwerft.autofillerselector:tint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tintMode de.appwerft.autofillerselector:tintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat de.appwerft.autofillselector:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tint de.appwerft.autofillselector:tint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tintMode de.appwerft.autofillselector:tintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4746,17 +4746,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:srcCompat
+          @attr name de.appwerft.autofillselector:srcCompat
         */
         public static int AppCompatImageView_srcCompat = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tint}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tint}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4767,11 +4767,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tint
+          @attr name de.appwerft.autofillselector:tint
         */
         public static int AppCompatImageView_tint = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tintMode}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tintMode}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4788,7 +4788,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:tintMode
+          @attr name de.appwerft.autofillselector:tintMode
         */
         public static int AppCompatImageView_tintMode = 3;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4798,9 +4798,9 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark de.appwerft.autofillerselector:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint de.appwerft.autofillerselector:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode de.appwerft.autofillerselector:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark de.appwerft.autofillselector:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint de.appwerft.autofillselector:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode de.appwerft.autofillselector:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4817,17 +4817,17 @@ containing a value of this type.
         */
         public static int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:tickMark
+          @attr name de.appwerft.autofillselector:tickMark
         */
         public static int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4838,11 +4838,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tickMarkTint
+          @attr name de.appwerft.autofillselector:tickMarkTint
         */
         public static int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4859,7 +4859,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:tickMarkTintMode
+          @attr name de.appwerft.autofillselector:tickMarkTintMode
         */
         public static int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4937,13 +4937,13 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize de.appwerft.autofillerselector:autoSizeMaxTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize de.appwerft.autofillerselector:autoSizeMinTextSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes de.appwerft.autofillerselector:autoSizePresetSizes}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity de.appwerft.autofillerselector:autoSizeStepGranularity}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_autoSizeTextType de.appwerft.autofillerselector:autoSizeTextType}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_fontFamily de.appwerft.autofillerselector:fontFamily}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps de.appwerft.autofillerselector:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize de.appwerft.autofillselector:autoSizeMaxTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize de.appwerft.autofillselector:autoSizeMinTextSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes de.appwerft.autofillselector:autoSizePresetSizes}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity de.appwerft.autofillselector:autoSizeStepGranularity}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_autoSizeTextType de.appwerft.autofillselector:autoSizeTextType}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_fontFamily de.appwerft.autofillselector:fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps de.appwerft.autofillselector:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_autoSizeMaxTextSize
@@ -4965,7 +4965,7 @@ containing a value of this type.
         */
         public static int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#autoSizeMaxTextSize}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#autoSizeMaxTextSize}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4977,11 +4977,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:autoSizeMaxTextSize
+          @attr name de.appwerft.autofillselector:autoSizeMaxTextSize
         */
         public static int AppCompatTextView_autoSizeMaxTextSize = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#autoSizeMinTextSize}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#autoSizeMinTextSize}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -4993,21 +4993,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:autoSizeMinTextSize
+          @attr name de.appwerft.autofillselector:autoSizeMinTextSize
         */
         public static int AppCompatTextView_autoSizeMinTextSize = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#autoSizePresetSizes}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#autoSizePresetSizes}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:autoSizePresetSizes
+          @attr name de.appwerft.autofillselector:autoSizePresetSizes
         */
         public static int AppCompatTextView_autoSizePresetSizes = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#autoSizeStepGranularity}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#autoSizeStepGranularity}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -5019,11 +5019,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:autoSizeStepGranularity
+          @attr name de.appwerft.autofillselector:autoSizeStepGranularity
         */
         public static int AppCompatTextView_autoSizeStepGranularity = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#autoSizeTextType}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#autoSizeTextType}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -5036,11 +5036,11 @@ containing a value of this type.
 <tr><td><code>none</code></td><td>0</td><td></td></tr>
 <tr><td><code>uniform</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:autoSizeTextType
+          @attr name de.appwerft.autofillselector:autoSizeTextType
         */
         public static int AppCompatTextView_autoSizeTextType = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fontFamily}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fontFamily}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
@@ -5050,18 +5050,18 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:fontFamily
+          @attr name de.appwerft.autofillselector:fontFamily
         */
         public static int AppCompatTextView_fontFamily = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name de.appwerft.autofillerselector:textAllCaps
+          @attr name de.appwerft.autofillselector:textAllCaps
         */
         public static int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -5070,126 +5070,126 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider de.appwerft.autofillerselector:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground de.appwerft.autofillerselector:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme de.appwerft.autofillerselector:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize de.appwerft.autofillerselector:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle de.appwerft.autofillerselector:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle de.appwerft.autofillerselector:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle de.appwerft.autofillerselector:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle de.appwerft.autofillerselector:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle de.appwerft.autofillerselector:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme de.appwerft.autofillerselector:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme de.appwerft.autofillerselector:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle de.appwerft.autofillerselector:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle de.appwerft.autofillerselector:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance de.appwerft.autofillerselector:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor de.appwerft.autofillerselector:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground de.appwerft.autofillerselector:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle de.appwerft.autofillerselector:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable de.appwerft.autofillerselector:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable de.appwerft.autofillerselector:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable de.appwerft.autofillerselector:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable de.appwerft.autofillerselector:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable de.appwerft.autofillerselector:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle de.appwerft.autofillerselector:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable de.appwerft.autofillerselector:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable de.appwerft.autofillerselector:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground de.appwerft.autofillerselector:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle de.appwerft.autofillerselector:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable de.appwerft.autofillerselector:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle de.appwerft.autofillerselector:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle de.appwerft.autofillerselector:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle de.appwerft.autofillerselector:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle de.appwerft.autofillerselector:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons de.appwerft.autofillerselector:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle de.appwerft.autofillerselector:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme de.appwerft.autofillerselector:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider de.appwerft.autofillselector:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground de.appwerft.autofillselector:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme de.appwerft.autofillselector:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize de.appwerft.autofillselector:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle de.appwerft.autofillselector:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle de.appwerft.autofillselector:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle de.appwerft.autofillselector:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle de.appwerft.autofillselector:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle de.appwerft.autofillselector:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme de.appwerft.autofillselector:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme de.appwerft.autofillselector:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle de.appwerft.autofillselector:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle de.appwerft.autofillselector:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance de.appwerft.autofillselector:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor de.appwerft.autofillselector:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground de.appwerft.autofillselector:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle de.appwerft.autofillselector:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable de.appwerft.autofillselector:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable de.appwerft.autofillselector:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable de.appwerft.autofillselector:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable de.appwerft.autofillselector:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable de.appwerft.autofillselector:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle de.appwerft.autofillselector:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable de.appwerft.autofillselector:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable de.appwerft.autofillselector:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground de.appwerft.autofillselector:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle de.appwerft.autofillselector:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable de.appwerft.autofillselector:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle de.appwerft.autofillselector:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle de.appwerft.autofillselector:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle de.appwerft.autofillselector:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle de.appwerft.autofillselector:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons de.appwerft.autofillselector:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle de.appwerft.autofillselector:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme de.appwerft.autofillselector:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle de.appwerft.autofillerselector:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle de.appwerft.autofillerselector:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle de.appwerft.autofillerselector:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle de.appwerft.autofillerselector:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle de.appwerft.autofillerselector:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle de.appwerft.autofillerselector:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle de.appwerft.autofillerselector:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle de.appwerft.autofillerselector:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall de.appwerft.autofillerselector:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle de.appwerft.autofillerselector:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle de.appwerft.autofillerselector:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent de.appwerft.autofillerselector:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating de.appwerft.autofillerselector:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal de.appwerft.autofillerselector:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated de.appwerft.autofillerselector:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight de.appwerft.autofillerselector:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal de.appwerft.autofillerselector:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorError de.appwerft.autofillerselector:colorError}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary de.appwerft.autofillerselector:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark de.appwerft.autofillerselector:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal de.appwerft.autofillerselector:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground de.appwerft.autofillerselector:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding de.appwerft.autofillerselector:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme de.appwerft.autofillerselector:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal de.appwerft.autofillerselector:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical de.appwerft.autofillerselector:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle de.appwerft.autofillerselector:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight de.appwerft.autofillerselector:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground de.appwerft.autofillerselector:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor de.appwerft.autofillerselector:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle de.appwerft.autofillerselector:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator de.appwerft.autofillerselector:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle de.appwerft.autofillerselector:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator de.appwerft.autofillerselector:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog de.appwerft.autofillerselector:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle de.appwerft.autofillerselector:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle de.appwerft.autofillerselector:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight de.appwerft.autofillerselector:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge de.appwerft.autofillerselector:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall de.appwerft.autofillerselector:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft de.appwerft.autofillerselector:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight de.appwerft.autofillerselector:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground de.appwerft.autofillerselector:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme de.appwerft.autofillerselector:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth de.appwerft.autofillerselector:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle de.appwerft.autofillerselector:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle de.appwerft.autofillerselector:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle de.appwerft.autofillerselector:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle de.appwerft.autofillerselector:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator de.appwerft.autofillerselector:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall de.appwerft.autofillerselector:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle de.appwerft.autofillerselector:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle de.appwerft.autofillerselector:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground de.appwerft.autofillerselector:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless de.appwerft.autofillerselector:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle de.appwerft.autofillerselector:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle de.appwerft.autofillerselector:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle de.appwerft.autofillerselector:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu de.appwerft.autofillerselector:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem de.appwerft.autofillerselector:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary de.appwerft.autofillerselector:textAppearanceListItemSecondary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall de.appwerft.autofillerselector:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader de.appwerft.autofillerselector:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle de.appwerft.autofillerselector:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle de.appwerft.autofillerselector:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu de.appwerft.autofillerselector:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem de.appwerft.autofillerselector:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl de.appwerft.autofillerselector:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle de.appwerft.autofillerselector:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle de.appwerft.autofillerselector:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor de.appwerft.autofillerselector:tooltipForegroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground de.appwerft.autofillerselector:tooltipFrameBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_viewInflaterClass de.appwerft.autofillerselector:viewInflaterClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar de.appwerft.autofillerselector:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay de.appwerft.autofillerselector:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay de.appwerft.autofillerselector:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor de.appwerft.autofillerselector:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor de.appwerft.autofillerselector:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor de.appwerft.autofillerselector:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor de.appwerft.autofillerselector:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor de.appwerft.autofillerselector:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor de.appwerft.autofillerselector:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle de.appwerft.autofillerselector:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle de.appwerft.autofillselector:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle de.appwerft.autofillselector:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle de.appwerft.autofillselector:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle de.appwerft.autofillselector:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle de.appwerft.autofillselector:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle de.appwerft.autofillselector:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle de.appwerft.autofillselector:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle de.appwerft.autofillselector:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall de.appwerft.autofillselector:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle de.appwerft.autofillselector:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle de.appwerft.autofillselector:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent de.appwerft.autofillselector:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating de.appwerft.autofillselector:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal de.appwerft.autofillselector:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated de.appwerft.autofillselector:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight de.appwerft.autofillselector:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal de.appwerft.autofillselector:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorError de.appwerft.autofillselector:colorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary de.appwerft.autofillselector:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark de.appwerft.autofillselector:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal de.appwerft.autofillselector:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground de.appwerft.autofillselector:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding de.appwerft.autofillselector:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme de.appwerft.autofillselector:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal de.appwerft.autofillselector:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical de.appwerft.autofillselector:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle de.appwerft.autofillselector:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight de.appwerft.autofillselector:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground de.appwerft.autofillselector:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor de.appwerft.autofillselector:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle de.appwerft.autofillselector:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator de.appwerft.autofillselector:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle de.appwerft.autofillselector:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator de.appwerft.autofillselector:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog de.appwerft.autofillselector:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle de.appwerft.autofillselector:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle de.appwerft.autofillselector:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight de.appwerft.autofillselector:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge de.appwerft.autofillselector:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall de.appwerft.autofillselector:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft de.appwerft.autofillselector:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight de.appwerft.autofillselector:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground de.appwerft.autofillselector:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme de.appwerft.autofillselector:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth de.appwerft.autofillselector:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle de.appwerft.autofillselector:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle de.appwerft.autofillselector:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle de.appwerft.autofillselector:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle de.appwerft.autofillselector:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator de.appwerft.autofillselector:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall de.appwerft.autofillselector:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle de.appwerft.autofillselector:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle de.appwerft.autofillselector:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground de.appwerft.autofillselector:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless de.appwerft.autofillselector:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle de.appwerft.autofillselector:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle de.appwerft.autofillselector:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle de.appwerft.autofillselector:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu de.appwerft.autofillselector:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem de.appwerft.autofillselector:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary de.appwerft.autofillselector:textAppearanceListItemSecondary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall de.appwerft.autofillselector:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader de.appwerft.autofillselector:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle de.appwerft.autofillselector:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle de.appwerft.autofillselector:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu de.appwerft.autofillselector:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem de.appwerft.autofillselector:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl de.appwerft.autofillselector:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle de.appwerft.autofillselector:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle de.appwerft.autofillselector:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor de.appwerft.autofillselector:tooltipForegroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground de.appwerft.autofillselector:tooltipFrameBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_viewInflaterClass de.appwerft.autofillselector:viewInflaterClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar de.appwerft.autofillselector:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay de.appwerft.autofillselector:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay de.appwerft.autofillselector:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor de.appwerft.autofillselector:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor de.appwerft.autofillselector:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor de.appwerft.autofillselector:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor de.appwerft.autofillselector:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor de.appwerft.autofillselector:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor de.appwerft.autofillselector:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle de.appwerft.autofillselector:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -5345,37 +5345,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100b4, 0x7f0100b5, 0x7f0100b6, 0x7f0100b7
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionBarDivider
+          @attr name de.appwerft.autofillselector:actionBarDivider
         */
         public static int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionBarItemBackground
+          @attr name de.appwerft.autofillselector:actionBarItemBackground
         */
         public static int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionBarPopupTheme
+          @attr name de.appwerft.autofillselector:actionBarPopupTheme
         */
         public static int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5395,111 +5395,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:actionBarSize
+          @attr name de.appwerft.autofillselector:actionBarSize
         */
         public static int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionBarSplitStyle
+          @attr name de.appwerft.autofillselector:actionBarSplitStyle
         */
         public static int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionBarStyle
+          @attr name de.appwerft.autofillselector:actionBarStyle
         */
         public static int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionBarTabBarStyle
+          @attr name de.appwerft.autofillselector:actionBarTabBarStyle
         */
         public static int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionBarTabStyle
+          @attr name de.appwerft.autofillselector:actionBarTabStyle
         */
         public static int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionBarTabTextStyle
+          @attr name de.appwerft.autofillselector:actionBarTabTextStyle
         */
         public static int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionBarTheme
+          @attr name de.appwerft.autofillselector:actionBarTheme
         */
         public static int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionBarWidgetTheme
+          @attr name de.appwerft.autofillselector:actionBarWidgetTheme
         */
         public static int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionButtonStyle
+          @attr name de.appwerft.autofillselector:actionButtonStyle
         */
         public static int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionDropDownStyle
+          @attr name de.appwerft.autofillselector:actionDropDownStyle
         */
         public static int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionMenuTextAppearance
+          @attr name de.appwerft.autofillselector:actionMenuTextAppearance
         */
         public static int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5507,181 +5507,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.appwerft.autofillerselector:actionMenuTextColor
+          @attr name de.appwerft.autofillselector:actionMenuTextColor
         */
         public static int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionModeBackground
+          @attr name de.appwerft.autofillselector:actionModeBackground
         */
         public static int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionModeCloseButtonStyle
+          @attr name de.appwerft.autofillselector:actionModeCloseButtonStyle
         */
         public static int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionModeCloseDrawable
+          @attr name de.appwerft.autofillselector:actionModeCloseDrawable
         */
         public static int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionModeCopyDrawable
+          @attr name de.appwerft.autofillselector:actionModeCopyDrawable
         */
         public static int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionModeCutDrawable
+          @attr name de.appwerft.autofillselector:actionModeCutDrawable
         */
         public static int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionModeFindDrawable
+          @attr name de.appwerft.autofillselector:actionModeFindDrawable
         */
         public static int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionModePasteDrawable
+          @attr name de.appwerft.autofillselector:actionModePasteDrawable
         */
         public static int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionModePopupWindowStyle
+          @attr name de.appwerft.autofillselector:actionModePopupWindowStyle
         */
         public static int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionModeSelectAllDrawable
+          @attr name de.appwerft.autofillselector:actionModeSelectAllDrawable
         */
         public static int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionModeShareDrawable
+          @attr name de.appwerft.autofillselector:actionModeShareDrawable
         */
         public static int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionModeSplitBackground
+          @attr name de.appwerft.autofillselector:actionModeSplitBackground
         */
         public static int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionModeStyle
+          @attr name de.appwerft.autofillselector:actionModeStyle
         */
         public static int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionModeWebSearchDrawable
+          @attr name de.appwerft.autofillselector:actionModeWebSearchDrawable
         */
         public static int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionOverflowButtonStyle
+          @attr name de.appwerft.autofillselector:actionOverflowButtonStyle
         */
         public static int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionOverflowMenuStyle
+          @attr name de.appwerft.autofillselector:actionOverflowMenuStyle
         */
         public static int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:activityChooserViewStyle
+          @attr name de.appwerft.autofillselector:activityChooserViewStyle
         */
         public static int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:alertDialogButtonGroupStyle
+          @attr name de.appwerft.autofillselector:alertDialogButtonGroupStyle
         */
         public static int AppCompatTheme_alertDialogButtonGroupStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5691,27 +5691,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:alertDialogCenterButtons
+          @attr name de.appwerft.autofillselector:alertDialogCenterButtons
         */
         public static int AppCompatTheme_alertDialogCenterButtons = 96;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:alertDialogStyle
+          @attr name de.appwerft.autofillselector:alertDialogStyle
         */
         public static int AppCompatTheme_alertDialogStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:alertDialogTheme
+          @attr name de.appwerft.autofillselector:alertDialogTheme
         */
         public static int AppCompatTheme_alertDialogTheme = 97;
         /**
@@ -5727,117 +5727,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:autoCompleteTextViewStyle
+          @attr name de.appwerft.autofillselector:autoCompleteTextViewStyle
         */
         public static int AppCompatTheme_autoCompleteTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:borderlessButtonStyle
+          @attr name de.appwerft.autofillselector:borderlessButtonStyle
         */
         public static int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:buttonBarButtonStyle
+          @attr name de.appwerft.autofillselector:buttonBarButtonStyle
         */
         public static int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:buttonBarNegativeButtonStyle
+          @attr name de.appwerft.autofillselector:buttonBarNegativeButtonStyle
         */
         public static int AppCompatTheme_buttonBarNegativeButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:buttonBarNeutralButtonStyle
+          @attr name de.appwerft.autofillselector:buttonBarNeutralButtonStyle
         */
         public static int AppCompatTheme_buttonBarNeutralButtonStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:buttonBarPositiveButtonStyle
+          @attr name de.appwerft.autofillselector:buttonBarPositiveButtonStyle
         */
         public static int AppCompatTheme_buttonBarPositiveButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:buttonBarStyle
+          @attr name de.appwerft.autofillselector:buttonBarStyle
         */
         public static int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:buttonStyle
+          @attr name de.appwerft.autofillselector:buttonStyle
         */
         public static int AppCompatTheme_buttonStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:buttonStyleSmall
+          @attr name de.appwerft.autofillselector:buttonStyleSmall
         */
         public static int AppCompatTheme_buttonStyleSmall = 104;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:checkboxStyle
+          @attr name de.appwerft.autofillselector:checkboxStyle
         */
         public static int AppCompatTheme_checkboxStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:checkedTextViewStyle
+          @attr name de.appwerft.autofillselector:checkedTextViewStyle
         */
         public static int AppCompatTheme_checkedTextViewStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5848,11 +5848,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:colorAccent
+          @attr name de.appwerft.autofillselector:colorAccent
         */
         public static int AppCompatTheme_colorAccent = 86;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5863,11 +5863,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:colorBackgroundFloating
+          @attr name de.appwerft.autofillselector:colorBackgroundFloating
         */
         public static int AppCompatTheme_colorBackgroundFloating = 93;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5878,11 +5878,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:colorButtonNormal
+          @attr name de.appwerft.autofillselector:colorButtonNormal
         */
         public static int AppCompatTheme_colorButtonNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5893,11 +5893,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:colorControlActivated
+          @attr name de.appwerft.autofillselector:colorControlActivated
         */
         public static int AppCompatTheme_colorControlActivated = 88;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5908,11 +5908,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:colorControlHighlight
+          @attr name de.appwerft.autofillselector:colorControlHighlight
         */
         public static int AppCompatTheme_colorControlHighlight = 89;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5923,11 +5923,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:colorControlNormal
+          @attr name de.appwerft.autofillselector:colorControlNormal
         */
         public static int AppCompatTheme_colorControlNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#colorError}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#colorError}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5935,11 +5935,11 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.appwerft.autofillerselector:colorError
+          @attr name de.appwerft.autofillselector:colorError
         */
         public static int AppCompatTheme_colorError = 118;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5950,11 +5950,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:colorPrimary
+          @attr name de.appwerft.autofillselector:colorPrimary
         */
         public static int AppCompatTheme_colorPrimary = 84;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5965,11 +5965,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:colorPrimaryDark
+          @attr name de.appwerft.autofillselector:colorPrimaryDark
         */
         public static int AppCompatTheme_colorPrimaryDark = 85;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5980,21 +5980,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:colorSwitchThumbNormal
+          @attr name de.appwerft.autofillselector:colorSwitchThumbNormal
         */
         public static int AppCompatTheme_colorSwitchThumbNormal = 91;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:controlBackground
+          @attr name de.appwerft.autofillselector:controlBackground
         */
         public static int AppCompatTheme_controlBackground = 92;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6006,51 +6006,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:dialogPreferredPadding
+          @attr name de.appwerft.autofillselector:dialogPreferredPadding
         */
         public static int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:dialogTheme
+          @attr name de.appwerft.autofillselector:dialogTheme
         */
         public static int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:dividerHorizontal
+          @attr name de.appwerft.autofillselector:dividerHorizontal
         */
         public static int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:dividerVertical
+          @attr name de.appwerft.autofillselector:dividerVertical
         */
         public static int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:dropDownListViewStyle
+          @attr name de.appwerft.autofillselector:dropDownListViewStyle
         */
         public static int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6062,21 +6062,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:dropdownListPreferredItemHeight
+          @attr name de.appwerft.autofillselector:dropdownListPreferredItemHeight
         */
         public static int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:editTextBackground
+          @attr name de.appwerft.autofillselector:editTextBackground
         */
         public static int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6084,81 +6084,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.appwerft.autofillerselector:editTextColor
+          @attr name de.appwerft.autofillselector:editTextColor
         */
         public static int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:editTextStyle
+          @attr name de.appwerft.autofillselector:editTextStyle
         */
         public static int AppCompatTheme_editTextStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:homeAsUpIndicator
+          @attr name de.appwerft.autofillselector:homeAsUpIndicator
         */
         public static int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:imageButtonStyle
+          @attr name de.appwerft.autofillselector:imageButtonStyle
         */
         public static int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:listChoiceBackgroundIndicator
+          @attr name de.appwerft.autofillselector:listChoiceBackgroundIndicator
         */
         public static int AppCompatTheme_listChoiceBackgroundIndicator = 83;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:listDividerAlertDialog
+          @attr name de.appwerft.autofillselector:listDividerAlertDialog
         */
         public static int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:listMenuViewStyle
+          @attr name de.appwerft.autofillselector:listMenuViewStyle
         */
         public static int AppCompatTheme_listMenuViewStyle = 115;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:listPopupWindowStyle
+          @attr name de.appwerft.autofillselector:listPopupWindowStyle
         */
         public static int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6170,11 +6170,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:listPreferredItemHeight
+          @attr name de.appwerft.autofillselector:listPreferredItemHeight
         */
         public static int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6186,11 +6186,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:listPreferredItemHeightLarge
+          @attr name de.appwerft.autofillselector:listPreferredItemHeightLarge
         */
         public static int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6202,11 +6202,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:listPreferredItemHeightSmall
+          @attr name de.appwerft.autofillselector:listPreferredItemHeightSmall
         */
         public static int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6218,11 +6218,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:listPreferredItemPaddingLeft
+          @attr name de.appwerft.autofillselector:listPreferredItemPaddingLeft
         */
         public static int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6234,31 +6234,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:listPreferredItemPaddingRight
+          @attr name de.appwerft.autofillselector:listPreferredItemPaddingRight
         */
         public static int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:panelBackground
+          @attr name de.appwerft.autofillselector:panelBackground
         */
         public static int AppCompatTheme_panelBackground = 80;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:panelMenuListTheme
+          @attr name de.appwerft.autofillselector:panelMenuListTheme
         */
         public static int AppCompatTheme_panelMenuListTheme = 82;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6270,221 +6270,221 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:panelMenuListWidth
+          @attr name de.appwerft.autofillselector:panelMenuListWidth
         */
         public static int AppCompatTheme_panelMenuListWidth = 81;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:popupMenuStyle
+          @attr name de.appwerft.autofillselector:popupMenuStyle
         */
         public static int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:popupWindowStyle
+          @attr name de.appwerft.autofillselector:popupWindowStyle
         */
         public static int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:radioButtonStyle
+          @attr name de.appwerft.autofillselector:radioButtonStyle
         */
         public static int AppCompatTheme_radioButtonStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:ratingBarStyle
+          @attr name de.appwerft.autofillselector:ratingBarStyle
         */
         public static int AppCompatTheme_ratingBarStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:ratingBarStyleIndicator
+          @attr name de.appwerft.autofillselector:ratingBarStyleIndicator
         */
         public static int AppCompatTheme_ratingBarStyleIndicator = 110;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:ratingBarStyleSmall
+          @attr name de.appwerft.autofillselector:ratingBarStyleSmall
         */
         public static int AppCompatTheme_ratingBarStyleSmall = 111;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:searchViewStyle
+          @attr name de.appwerft.autofillselector:searchViewStyle
         */
         public static int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:seekBarStyle
+          @attr name de.appwerft.autofillselector:seekBarStyle
         */
         public static int AppCompatTheme_seekBarStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:selectableItemBackground
+          @attr name de.appwerft.autofillselector:selectableItemBackground
         */
         public static int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:selectableItemBackgroundBorderless
+          @attr name de.appwerft.autofillselector:selectableItemBackgroundBorderless
         */
         public static int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:spinnerDropDownItemStyle
+          @attr name de.appwerft.autofillselector:spinnerDropDownItemStyle
         */
         public static int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:spinnerStyle
+          @attr name de.appwerft.autofillselector:spinnerStyle
         */
         public static int AppCompatTheme_spinnerStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:switchStyle
+          @attr name de.appwerft.autofillselector:switchStyle
         */
         public static int AppCompatTheme_switchStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:textAppearanceLargePopupMenu
+          @attr name de.appwerft.autofillselector:textAppearanceLargePopupMenu
         */
         public static int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:textAppearanceListItem
+          @attr name de.appwerft.autofillselector:textAppearanceListItem
         */
         public static int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#textAppearanceListItemSecondary}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#textAppearanceListItemSecondary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:textAppearanceListItemSecondary
+          @attr name de.appwerft.autofillselector:textAppearanceListItemSecondary
         */
         public static int AppCompatTheme_textAppearanceListItemSecondary = 78;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:textAppearanceListItemSmall
+          @attr name de.appwerft.autofillselector:textAppearanceListItemSmall
         */
         public static int AppCompatTheme_textAppearanceListItemSmall = 79;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:textAppearancePopupMenuHeader
+          @attr name de.appwerft.autofillselector:textAppearancePopupMenuHeader
         */
         public static int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:textAppearanceSearchResultSubtitle
+          @attr name de.appwerft.autofillselector:textAppearanceSearchResultSubtitle
         */
         public static int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:textAppearanceSearchResultTitle
+          @attr name de.appwerft.autofillselector:textAppearanceSearchResultTitle
         */
         public static int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:textAppearanceSmallPopupMenu
+          @attr name de.appwerft.autofillselector:textAppearanceSmallPopupMenu
         */
         public static int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6492,11 +6492,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.appwerft.autofillerselector:textColorAlertDialogListItem
+          @attr name de.appwerft.autofillselector:textColorAlertDialogListItem
         */
         public static int AppCompatTheme_textColorAlertDialogListItem = 98;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6504,31 +6504,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.appwerft.autofillerselector:textColorSearchUrl
+          @attr name de.appwerft.autofillselector:textColorSearchUrl
         */
         public static int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:toolbarNavigationButtonStyle
+          @attr name de.appwerft.autofillselector:toolbarNavigationButtonStyle
         */
         public static int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:toolbarStyle
+          @attr name de.appwerft.autofillselector:toolbarStyle
         */
         public static int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tooltipForegroundColor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tooltipForegroundColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6536,21 +6536,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.appwerft.autofillerselector:tooltipForegroundColor
+          @attr name de.appwerft.autofillselector:tooltipForegroundColor
         */
         public static int AppCompatTheme_tooltipForegroundColor = 117;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tooltipFrameBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tooltipFrameBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:tooltipFrameBackground
+          @attr name de.appwerft.autofillselector:tooltipFrameBackground
         */
         public static int AppCompatTheme_tooltipFrameBackground = 116;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#viewInflaterClass}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#viewInflaterClass}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6560,11 +6560,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:viewInflaterClass
+          @attr name de.appwerft.autofillselector:viewInflaterClass
         */
         public static int AppCompatTheme_viewInflaterClass = 119;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6574,11 +6574,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:windowActionBar
+          @attr name de.appwerft.autofillselector:windowActionBar
         */
         public static int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6588,11 +6588,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:windowActionBarOverlay
+          @attr name de.appwerft.autofillselector:windowActionBarOverlay
         */
         public static int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6602,11 +6602,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:windowActionModeOverlay
+          @attr name de.appwerft.autofillselector:windowActionModeOverlay
         */
         public static int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6621,11 +6621,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:windowFixedHeightMajor
+          @attr name de.appwerft.autofillselector:windowFixedHeightMajor
         */
         public static int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6640,11 +6640,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:windowFixedHeightMinor
+          @attr name de.appwerft.autofillselector:windowFixedHeightMinor
         */
         public static int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6659,11 +6659,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:windowFixedWidthMajor
+          @attr name de.appwerft.autofillselector:windowFixedWidthMajor
         */
         public static int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6678,11 +6678,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:windowFixedWidthMinor
+          @attr name de.appwerft.autofillselector:windowFixedWidthMinor
         */
         public static int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6697,11 +6697,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:windowMinWidthMajor
+          @attr name de.appwerft.autofillselector:windowMinWidthMajor
         */
         public static int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6716,11 +6716,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:windowMinWidthMinor
+          @attr name de.appwerft.autofillselector:windowMinWidthMinor
         */
         public static int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6730,7 +6730,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:windowNoTitle
+          @attr name de.appwerft.autofillselector:windowNoTitle
         */
         public static int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6739,11 +6739,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation de.appwerft.autofillerselector:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground de.appwerft.autofillerselector:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint de.appwerft.autofillerselector:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor de.appwerft.autofillerselector:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu de.appwerft.autofillerselector:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation de.appwerft.autofillselector:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground de.appwerft.autofillselector:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint de.appwerft.autofillselector:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor de.appwerft.autofillselector:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu de.appwerft.autofillselector:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6756,7 +6756,7 @@ containing a value of this type.
             0x7f010140
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#elevation}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6768,21 +6768,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:elevation
+          @attr name de.appwerft.autofillselector:elevation
         */
         public static int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:itemBackground
+          @attr name de.appwerft.autofillselector:itemBackground
         */
         public static int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6793,11 +6793,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:itemIconTint
+          @attr name de.appwerft.autofillselector:itemIconTint
         */
         public static int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6808,17 +6808,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:itemTextColor
+          @attr name de.appwerft.autofillselector:itemTextColor
         */
         public static int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#menu}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:menu
+          @attr name de.appwerft.autofillselector:menu
         */
         public static int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6827,9 +6827,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable de.appwerft.autofillerselector:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight de.appwerft.autofillerselector:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed de.appwerft.autofillerselector:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable de.appwerft.autofillselector:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight de.appwerft.autofillselector:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed de.appwerft.autofillselector:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6839,7 +6839,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01011e, 0x7f01011f, 0x7f010120
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6849,11 +6849,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:behavior_hideable
+          @attr name de.appwerft.autofillselector:behavior_hideable
         */
         public static int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6873,11 +6873,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:behavior_peekHeight
+          @attr name de.appwerft.autofillselector:behavior_peekHeight
         */
         public static int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6887,7 +6887,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:behavior_skipCollapsed
+          @attr name de.appwerft.autofillselector:behavior_skipCollapsed
         */
         public static int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6896,7 +6896,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking de.appwerft.autofillerselector:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking de.appwerft.autofillselector:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6904,7 +6904,7 @@ containing a value of this type.
             0x7f0100b8
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6914,7 +6914,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:allowStacking
+          @attr name de.appwerft.autofillselector:allowStacking
         */
         public static int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -6925,17 +6925,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor de.appwerft.autofillerselector:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius de.appwerft.autofillerselector:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation de.appwerft.autofillerselector:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation de.appwerft.autofillerselector:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap de.appwerft.autofillerselector:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding de.appwerft.autofillerselector:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding de.appwerft.autofillerselector:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom de.appwerft.autofillerselector:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft de.appwerft.autofillerselector:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight de.appwerft.autofillerselector:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop de.appwerft.autofillerselector:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor de.appwerft.autofillselector:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius de.appwerft.autofillselector:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation de.appwerft.autofillselector:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation de.appwerft.autofillselector:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap de.appwerft.autofillselector:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding de.appwerft.autofillselector:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding de.appwerft.autofillselector:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom de.appwerft.autofillselector:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft de.appwerft.autofillselector:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight de.appwerft.autofillselector:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop de.appwerft.autofillselector:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -6970,7 +6970,7 @@ containing a value of this type.
         */
         public static int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6981,11 +6981,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:cardBackgroundColor
+          @attr name de.appwerft.autofillselector:cardBackgroundColor
         */
         public static int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6997,11 +6997,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:cardCornerRadius
+          @attr name de.appwerft.autofillselector:cardCornerRadius
         */
         public static int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7013,11 +7013,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:cardElevation
+          @attr name de.appwerft.autofillselector:cardElevation
         */
         public static int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7029,11 +7029,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:cardMaxElevation
+          @attr name de.appwerft.autofillselector:cardMaxElevation
         */
         public static int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7043,11 +7043,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:cardPreventCornerOverlap
+          @attr name de.appwerft.autofillselector:cardPreventCornerOverlap
         */
         public static int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7057,11 +7057,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:cardUseCompatPadding
+          @attr name de.appwerft.autofillselector:cardUseCompatPadding
         */
         public static int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7073,11 +7073,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentPadding
+          @attr name de.appwerft.autofillselector:contentPadding
         */
         public static int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7089,11 +7089,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentPaddingBottom
+          @attr name de.appwerft.autofillselector:contentPaddingBottom
         */
         public static int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7105,11 +7105,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentPaddingLeft
+          @attr name de.appwerft.autofillselector:contentPaddingLeft
         */
         public static int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7121,11 +7121,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentPaddingRight
+          @attr name de.appwerft.autofillselector:contentPaddingRight
         */
         public static int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -7137,7 +7137,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentPaddingTop
+          @attr name de.appwerft.autofillselector:contentPaddingTop
         */
         public static int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -7146,22 +7146,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity de.appwerft.autofillerselector:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance de.appwerft.autofillerselector:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim de.appwerft.autofillerselector:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity de.appwerft.autofillerselector:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin de.appwerft.autofillerselector:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom de.appwerft.autofillerselector:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd de.appwerft.autofillerselector:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart de.appwerft.autofillerselector:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop de.appwerft.autofillerselector:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance de.appwerft.autofillerselector:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration de.appwerft.autofillerselector:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger de.appwerft.autofillerselector:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim de.appwerft.autofillerselector:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title de.appwerft.autofillerselector:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled de.appwerft.autofillerselector:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId de.appwerft.autofillerselector:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity de.appwerft.autofillselector:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance de.appwerft.autofillselector:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim de.appwerft.autofillselector:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity de.appwerft.autofillselector:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin de.appwerft.autofillselector:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom de.appwerft.autofillselector:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd de.appwerft.autofillselector:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart de.appwerft.autofillselector:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop de.appwerft.autofillselector:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance de.appwerft.autofillselector:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration de.appwerft.autofillselector:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger de.appwerft.autofillselector:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim de.appwerft.autofillselector:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title de.appwerft.autofillselector:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled de.appwerft.autofillselector:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId de.appwerft.autofillselector:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -7187,7 +7187,7 @@ containing a value of this type.
             0x7f01012d, 0x7f01012e, 0x7f01012f, 0x7f010168
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7208,21 +7208,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:collapsedTitleGravity
+          @attr name de.appwerft.autofillselector:collapsedTitleGravity
         */
         public static int CollapsingToolbarLayout_collapsedTitleGravity = 12;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:collapsedTitleTextAppearance
+          @attr name de.appwerft.autofillselector:collapsedTitleTextAppearance
         */
         public static int CollapsingToolbarLayout_collapsedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7233,11 +7233,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentScrim
+          @attr name de.appwerft.autofillselector:contentScrim
         */
         public static int CollapsingToolbarLayout_contentScrim = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7258,11 +7258,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:expandedTitleGravity
+          @attr name de.appwerft.autofillselector:expandedTitleGravity
         */
         public static int CollapsingToolbarLayout_expandedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7274,11 +7274,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:expandedTitleMargin
+          @attr name de.appwerft.autofillselector:expandedTitleMargin
         */
         public static int CollapsingToolbarLayout_expandedTitleMargin = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7290,11 +7290,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:expandedTitleMarginBottom
+          @attr name de.appwerft.autofillselector:expandedTitleMarginBottom
         */
         public static int CollapsingToolbarLayout_expandedTitleMarginBottom = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7306,11 +7306,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:expandedTitleMarginEnd
+          @attr name de.appwerft.autofillselector:expandedTitleMarginEnd
         */
         public static int CollapsingToolbarLayout_expandedTitleMarginEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7322,11 +7322,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:expandedTitleMarginStart
+          @attr name de.appwerft.autofillselector:expandedTitleMarginStart
         */
         public static int CollapsingToolbarLayout_expandedTitleMarginStart = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7338,21 +7338,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:expandedTitleMarginTop
+          @attr name de.appwerft.autofillselector:expandedTitleMarginTop
         */
         public static int CollapsingToolbarLayout_expandedTitleMarginTop = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:expandedTitleTextAppearance
+          @attr name de.appwerft.autofillselector:expandedTitleTextAppearance
         */
         public static int CollapsingToolbarLayout_expandedTitleTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7362,11 +7362,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:scrimAnimationDuration
+          @attr name de.appwerft.autofillselector:scrimAnimationDuration
         */
         public static int CollapsingToolbarLayout_scrimAnimationDuration = 11;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7378,11 +7378,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:scrimVisibleHeightTrigger
+          @attr name de.appwerft.autofillselector:scrimVisibleHeightTrigger
         */
         public static int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 10;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7393,11 +7393,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:statusBarScrim
+          @attr name de.appwerft.autofillselector:statusBarScrim
         */
         public static int CollapsingToolbarLayout_statusBarScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#title}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7407,11 +7407,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:title
+          @attr name de.appwerft.autofillselector:title
         */
         public static int CollapsingToolbarLayout_title = 15;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7421,17 +7421,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:titleEnabled
+          @attr name de.appwerft.autofillselector:titleEnabled
         */
         public static int CollapsingToolbarLayout_titleEnabled = 14;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:toolbarId
+          @attr name de.appwerft.autofillselector:toolbarId
         */
         public static int CollapsingToolbarLayout_toolbarId = 9;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -7440,8 +7440,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode de.appwerft.autofillerselector:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier de.appwerft.autofillerselector:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode de.appwerft.autofillselector:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier de.appwerft.autofillselector:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -7450,7 +7450,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010130, 0x7f010131
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7464,11 +7464,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:layout_collapseMode
+          @attr name de.appwerft.autofillselector:layout_collapseMode
         */
         public static int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7478,7 +7478,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:layout_collapseParallaxMultiplier
+          @attr name de.appwerft.autofillselector:layout_collapseParallaxMultiplier
         */
         public static int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -7487,7 +7487,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha de.appwerft.autofillerselector:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha de.appwerft.autofillselector:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -7499,7 +7499,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100b9
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#alpha}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -7509,7 +7509,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:alpha
+          @attr name de.appwerft.autofillselector:alpha
         */
         public static int ColorStateListItem_alpha = 2;
         /**
@@ -7531,8 +7531,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint de.appwerft.autofillerselector:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode de.appwerft.autofillerselector:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint de.appwerft.autofillselector:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode de.appwerft.autofillselector:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -7548,7 +7548,7 @@ containing a value of this type.
         */
         public static int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7559,11 +7559,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:buttonTint
+          @attr name de.appwerft.autofillselector:buttonTint
         */
         public static int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7580,7 +7580,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:buttonTintMode
+          @attr name de.appwerft.autofillselector:buttonTintMode
         */
         public static int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -7589,8 +7589,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines de.appwerft.autofillerselector:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground de.appwerft.autofillerselector:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines de.appwerft.autofillselector:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground de.appwerft.autofillselector:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -7599,17 +7599,17 @@ containing a value of this type.
             0x7f010009, 0x7f01000a
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#keylines}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:keylines
+          @attr name de.appwerft.autofillselector:keylines
         */
         public static int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
@@ -7617,7 +7617,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.appwerft.autofillerselector:statusBarBackground
+          @attr name de.appwerft.autofillselector:statusBarBackground
         */
         public static int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -7627,12 +7627,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor de.appwerft.autofillerselector:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity de.appwerft.autofillerselector:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior de.appwerft.autofillerselector:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges de.appwerft.autofillerselector:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge de.appwerft.autofillerselector:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline de.appwerft.autofillerselector:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor de.appwerft.autofillselector:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity de.appwerft.autofillselector:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior de.appwerft.autofillselector:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges de.appwerft.autofillselector:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge de.appwerft.autofillselector:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline de.appwerft.autofillselector:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -7653,17 +7653,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:layout_anchor
+          @attr name de.appwerft.autofillselector:layout_anchor
         */
         public static int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7688,11 +7688,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:layout_anchorGravity
+          @attr name de.appwerft.autofillselector:layout_anchorGravity
         */
         public static int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7702,11 +7702,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:layout_behavior
+          @attr name de.appwerft.autofillselector:layout_behavior
         */
         public static int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7725,11 +7725,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:layout_dodgeInsetEdges
+          @attr name de.appwerft.autofillselector:layout_dodgeInsetEdges
         */
         public static int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7747,11 +7747,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:layout_insetEdge
+          @attr name de.appwerft.autofillselector:layout_insetEdge
         */
         public static int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7761,7 +7761,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:layout_keyline
+          @attr name de.appwerft.autofillselector:layout_keyline
         */
         public static int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -7770,9 +7770,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme de.appwerft.autofillerselector:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle de.appwerft.autofillerselector:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError de.appwerft.autofillerselector:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme de.appwerft.autofillselector:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle de.appwerft.autofillselector:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError de.appwerft.autofillselector:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -7782,27 +7782,27 @@ containing a value of this type.
             0x7f010132, 0x7f010133, 0x7f010134
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:bottomSheetDialogTheme
+          @attr name de.appwerft.autofillselector:bottomSheetDialogTheme
         */
         public static int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:bottomSheetStyle
+          @attr name de.appwerft.autofillselector:bottomSheetStyle
         */
         public static int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -7810,7 +7810,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.appwerft.autofillerselector:textColorError
+          @attr name de.appwerft.autofillselector:textColorError
         */
         public static int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -7819,14 +7819,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength de.appwerft.autofillerselector:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength de.appwerft.autofillerselector:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength de.appwerft.autofillerselector:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color de.appwerft.autofillerselector:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize de.appwerft.autofillerselector:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars de.appwerft.autofillerselector:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars de.appwerft.autofillerselector:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness de.appwerft.autofillerselector:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength de.appwerft.autofillselector:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength de.appwerft.autofillselector:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength de.appwerft.autofillselector:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color de.appwerft.autofillselector:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize de.appwerft.autofillselector:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars de.appwerft.autofillselector:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars de.appwerft.autofillselector:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness de.appwerft.autofillselector:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -7842,7 +7842,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100c0, 0x7f0100c1, 0x7f0100c2, 0x7f0100c3
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7854,11 +7854,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:arrowHeadLength
+          @attr name de.appwerft.autofillselector:arrowHeadLength
         */
         public static int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7870,11 +7870,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:arrowShaftLength
+          @attr name de.appwerft.autofillselector:arrowShaftLength
         */
         public static int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#barLength}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7886,11 +7886,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:barLength
+          @attr name de.appwerft.autofillselector:barLength
         */
         public static int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#color}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7901,11 +7901,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:color
+          @attr name de.appwerft.autofillselector:color
         */
         public static int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7917,11 +7917,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:drawableSize
+          @attr name de.appwerft.autofillselector:drawableSize
         */
         public static int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7933,11 +7933,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:gapBetweenBars
+          @attr name de.appwerft.autofillselector:gapBetweenBars
         */
         public static int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7947,11 +7947,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:spinBars
+          @attr name de.appwerft.autofillselector:spinBars
         */
         public static int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#thickness}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7963,7 +7963,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:thickness
+          @attr name de.appwerft.autofillselector:thickness
         */
         public static int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -7972,15 +7972,15 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint de.appwerft.autofillerselector:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode de.appwerft.autofillerselector:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth de.appwerft.autofillerselector:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation de.appwerft.autofillerselector:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabCustomSize de.appwerft.autofillerselector:fabCustomSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize de.appwerft.autofillerselector:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ de.appwerft.autofillerselector:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor de.appwerft.autofillerselector:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding de.appwerft.autofillerselector:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint de.appwerft.autofillselector:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode de.appwerft.autofillselector:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth de.appwerft.autofillselector:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation de.appwerft.autofillselector:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabCustomSize de.appwerft.autofillselector:fabCustomSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize de.appwerft.autofillselector:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ de.appwerft.autofillselector:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor de.appwerft.autofillselector:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding de.appwerft.autofillselector:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -7998,7 +7998,7 @@ containing a value of this type.
             0x7f01013a
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8009,11 +8009,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:backgroundTint
+          @attr name de.appwerft.autofillselector:backgroundTint
         */
         public static int FloatingActionButton_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8030,11 +8030,11 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:backgroundTintMode
+          @attr name de.appwerft.autofillselector:backgroundTintMode
         */
         public static int FloatingActionButton_backgroundTintMode = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8046,11 +8046,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:borderWidth
+          @attr name de.appwerft.autofillselector:borderWidth
         */
         public static int FloatingActionButton_borderWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#elevation}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8062,11 +8062,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:elevation
+          @attr name de.appwerft.autofillselector:elevation
         */
         public static int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fabCustomSize}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fabCustomSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8078,11 +8078,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:fabCustomSize
+          @attr name de.appwerft.autofillselector:fabCustomSize
         */
         public static int FloatingActionButton_fabCustomSize = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8096,11 +8096,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:fabSize
+          @attr name de.appwerft.autofillselector:fabSize
         */
         public static int FloatingActionButton_fabSize = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8112,11 +8112,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:pressedTranslationZ
+          @attr name de.appwerft.autofillselector:pressedTranslationZ
         */
         public static int FloatingActionButton_pressedTranslationZ = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8127,11 +8127,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:rippleColor
+          @attr name de.appwerft.autofillselector:rippleColor
         */
         public static int FloatingActionButton_rippleColor = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -8141,7 +8141,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:useCompatPadding
+          @attr name de.appwerft.autofillselector:useCompatPadding
         */
         public static int FloatingActionButton_useCompatPadding = 8;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -8150,7 +8150,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide de.appwerft.autofillerselector:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide de.appwerft.autofillselector:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -8158,7 +8158,7 @@ containing a value of this type.
             0x7f01013b
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -8168,7 +8168,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:behavior_autoHide
+          @attr name de.appwerft.autofillselector:behavior_autoHide
         */
         public static int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a FontFamily.
@@ -8177,12 +8177,12 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderAuthority de.appwerft.autofillerselector:fontProviderAuthority}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderCerts de.appwerft.autofillerselector:fontProviderCerts}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy de.appwerft.autofillerselector:fontProviderFetchStrategy}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout de.appwerft.autofillerselector:fontProviderFetchTimeout}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderPackage de.appwerft.autofillerselector:fontProviderPackage}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamily_fontProviderQuery de.appwerft.autofillerselector:fontProviderQuery}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderAuthority de.appwerft.autofillselector:fontProviderAuthority}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderCerts de.appwerft.autofillselector:fontProviderCerts}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy de.appwerft.autofillselector:fontProviderFetchStrategy}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout de.appwerft.autofillselector:fontProviderFetchTimeout}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderPackage de.appwerft.autofillselector:fontProviderPackage}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamily_fontProviderQuery de.appwerft.autofillselector:fontProviderQuery}</code></td><td></td></tr>
            </table>
            @see #FontFamily_fontProviderAuthority
            @see #FontFamily_fontProviderCerts
@@ -8196,7 +8196,7 @@ containing a value of this type.
             0x7f010114, 0x7f010115
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fontProviderAuthority}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fontProviderAuthority}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -8206,21 +8206,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:fontProviderAuthority
+          @attr name de.appwerft.autofillselector:fontProviderAuthority
         */
         public static int FontFamily_fontProviderAuthority = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fontProviderCerts}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fontProviderCerts}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:fontProviderCerts
+          @attr name de.appwerft.autofillselector:fontProviderCerts
         */
         public static int FontFamily_fontProviderCerts = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fontProviderFetchStrategy}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fontProviderFetchStrategy}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -8233,11 +8233,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>blocking</code></td><td>0</td><td></td></tr>
 <tr><td><code>async</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:fontProviderFetchStrategy
+          @attr name de.appwerft.autofillselector:fontProviderFetchStrategy
         */
         public static int FontFamily_fontProviderFetchStrategy = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fontProviderFetchTimeout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fontProviderFetchTimeout}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -8255,11 +8255,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>forever</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:fontProviderFetchTimeout
+          @attr name de.appwerft.autofillselector:fontProviderFetchTimeout
         */
         public static int FontFamily_fontProviderFetchTimeout = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fontProviderPackage}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fontProviderPackage}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -8269,11 +8269,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:fontProviderPackage
+          @attr name de.appwerft.autofillselector:fontProviderPackage
         */
         public static int FontFamily_fontProviderPackage = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fontProviderQuery}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fontProviderQuery}
           attribute's value can be found in the {@link #FontFamily} array.
 
 
@@ -8283,7 +8283,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:fontProviderQuery
+          @attr name de.appwerft.autofillselector:fontProviderQuery
         */
         public static int FontFamily_fontProviderQuery = 2;
         /** Attributes that can be used with a FontFamilyFont.
@@ -8295,9 +8295,9 @@ containing a value of this type.
            <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
            <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamilyFont_font de.appwerft.autofillerselector:font}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamilyFont_fontStyle de.appwerft.autofillerselector:fontStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #FontFamilyFont_fontWeight de.appwerft.autofillerselector:fontWeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamilyFont_font de.appwerft.autofillselector:font}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamilyFont_fontStyle de.appwerft.autofillselector:fontStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #FontFamilyFont_fontWeight de.appwerft.autofillselector:fontWeight}</code></td><td></td></tr>
            </table>
            @see #FontFamilyFont_android_font
            @see #FontFamilyFont_android_fontStyle
@@ -8329,17 +8329,17 @@ containing a value of this type.
         */
         public static int FontFamilyFont_android_fontWeight = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#font}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#font}
           attribute's value can be found in the {@link #FontFamilyFont} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:font
+          @attr name de.appwerft.autofillselector:font
         */
         public static int FontFamilyFont_font = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fontStyle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fontStyle}
           attribute's value can be found in the {@link #FontFamilyFont} array.
 
 
@@ -8352,11 +8352,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>italic</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:fontStyle
+          @attr name de.appwerft.autofillselector:fontStyle
         */
         public static int FontFamilyFont_fontStyle = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fontWeight}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fontWeight}
           attribute's value can be found in the {@link #FontFamilyFont} array.
 
 
@@ -8366,7 +8366,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:fontWeight
+          @attr name de.appwerft.autofillselector:fontWeight
         */
         public static int FontFamilyFont_fontWeight = 5;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -8377,7 +8377,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding de.appwerft.autofillerselector:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding de.appwerft.autofillselector:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -8399,7 +8399,7 @@ containing a value of this type.
         */
         public static int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -8409,7 +8409,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:foregroundInsidePadding
+          @attr name de.appwerft.autofillselector:foregroundInsidePadding
         */
         public static int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -8423,10 +8423,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider de.appwerft.autofillerselector:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding de.appwerft.autofillerselector:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild de.appwerft.autofillerselector:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers de.appwerft.autofillerselector:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider de.appwerft.autofillselector:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding de.appwerft.autofillselector:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild de.appwerft.autofillselector:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers de.appwerft.autofillselector:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -8474,17 +8474,17 @@ containing a value of this type.
         */
         public static int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#divider}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:divider
+          @attr name de.appwerft.autofillselector:divider
         */
         public static int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8496,11 +8496,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:dividerPadding
+          @attr name de.appwerft.autofillselector:dividerPadding
         */
         public static int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8510,11 +8510,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:measureWithLargestChild
+          @attr name de.appwerft.autofillselector:measureWithLargestChild
         */
         public static int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8529,7 +8529,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:showDividers
+          @attr name de.appwerft.autofillselector:showDividers
         */
         public static int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -8668,10 +8668,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout de.appwerft.autofillerselector:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass de.appwerft.autofillerselector:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass de.appwerft.autofillerselector:actionViewClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_alphabeticModifiers de.appwerft.autofillerselector:alphabeticModifiers}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout de.appwerft.autofillselector:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass de.appwerft.autofillselector:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass de.appwerft.autofillselector:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_alphabeticModifiers de.appwerft.autofillselector:alphabeticModifiers}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -8685,12 +8685,12 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_contentDescription de.appwerft.autofillerselector:contentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_iconTint de.appwerft.autofillerselector:iconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_iconTintMode de.appwerft.autofillerselector:iconTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_numericModifiers de.appwerft.autofillerselector:numericModifiers}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction de.appwerft.autofillerselector:showAsAction}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_tooltipText de.appwerft.autofillerselector:tooltipText}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_contentDescription de.appwerft.autofillselector:contentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_iconTint de.appwerft.autofillselector:iconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_iconTintMode de.appwerft.autofillselector:iconTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_numericModifiers de.appwerft.autofillselector:numericModifiers}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction de.appwerft.autofillselector:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_tooltipText de.appwerft.autofillselector:tooltipText}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -8725,17 +8725,17 @@ containing a value of this type.
             0x7f0100ce, 0x7f0100cf, 0x7f0100d0
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:actionLayout
+          @attr name de.appwerft.autofillselector:actionLayout
         */
         public static int MenuItem_actionLayout = 16;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8745,11 +8745,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:actionProviderClass
+          @attr name de.appwerft.autofillselector:actionProviderClass
         */
         public static int MenuItem_actionProviderClass = 18;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8759,11 +8759,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:actionViewClass
+          @attr name de.appwerft.autofillselector:actionViewClass
         */
         public static int MenuItem_actionViewClass = 17;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#alphabeticModifiers}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#alphabeticModifiers}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8780,7 +8780,7 @@ containing a value of this type.
 <tr><td><code>SYM</code></td><td>0x4</td><td></td></tr>
 <tr><td><code>FUNCTION</code></td><td>0x8</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:alphabeticModifiers
+          @attr name de.appwerft.autofillselector:alphabeticModifiers
         */
         public static int MenuItem_alphabeticModifiers = 13;
         /**
@@ -8862,7 +8862,7 @@ containing a value of this type.
         */
         public static int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentDescription}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentDescription}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8872,11 +8872,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentDescription
+          @attr name de.appwerft.autofillselector:contentDescription
         */
         public static int MenuItem_contentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#iconTint}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#iconTint}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8887,11 +8887,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:iconTint
+          @attr name de.appwerft.autofillselector:iconTint
         */
         public static int MenuItem_iconTint = 21;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#iconTintMode}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#iconTintMode}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8908,11 +8908,11 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:iconTintMode
+          @attr name de.appwerft.autofillselector:iconTintMode
         */
         public static int MenuItem_iconTintMode = 22;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#numericModifiers}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#numericModifiers}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8929,11 +8929,11 @@ containing a value of this type.
 <tr><td><code>SYM</code></td><td>0x4</td><td></td></tr>
 <tr><td><code>FUNCTION</code></td><td>0x8</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:numericModifiers
+          @attr name de.appwerft.autofillselector:numericModifiers
         */
         public static int MenuItem_numericModifiers = 14;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8949,11 +8949,11 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:showAsAction
+          @attr name de.appwerft.autofillselector:showAsAction
         */
         public static int MenuItem_showAsAction = 15;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tooltipText}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tooltipText}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8963,7 +8963,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tooltipText
+          @attr name de.appwerft.autofillselector:tooltipText
         */
         public static int MenuItem_tooltipText = 20;
         /** Attributes that can be used with a MenuView.
@@ -8979,8 +8979,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing de.appwerft.autofillerselector:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow de.appwerft.autofillerselector:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing de.appwerft.autofillselector:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow de.appwerft.autofillselector:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -9040,7 +9040,7 @@ containing a value of this type.
         */
         public static int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -9050,17 +9050,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:preserveIconSpacing
+          @attr name de.appwerft.autofillselector:preserveIconSpacing
         */
         public static int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:subMenuArrow
+          @attr name de.appwerft.autofillselector:subMenuArrow
         */
         public static int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -9072,13 +9072,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation de.appwerft.autofillerselector:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout de.appwerft.autofillerselector:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground de.appwerft.autofillerselector:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint de.appwerft.autofillerselector:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance de.appwerft.autofillerselector:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor de.appwerft.autofillerselector:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu de.appwerft.autofillerselector:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation de.appwerft.autofillselector:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout de.appwerft.autofillselector:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground de.appwerft.autofillselector:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint de.appwerft.autofillselector:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance de.appwerft.autofillselector:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor de.appwerft.autofillselector:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu de.appwerft.autofillselector:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -9115,7 +9115,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#elevation}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -9127,31 +9127,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:elevation
+          @attr name de.appwerft.autofillselector:elevation
         */
         public static int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:headerLayout
+          @attr name de.appwerft.autofillselector:headerLayout
         */
         public static int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:itemBackground
+          @attr name de.appwerft.autofillselector:itemBackground
         */
         public static int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -9162,21 +9162,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:itemIconTint
+          @attr name de.appwerft.autofillselector:itemIconTint
         */
         public static int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:itemTextAppearance
+          @attr name de.appwerft.autofillselector:itemTextAppearance
         */
         public static int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -9187,17 +9187,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:itemTextColor
+          @attr name de.appwerft.autofillselector:itemTextColor
         */
         public static int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#menu}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:menu
+          @attr name de.appwerft.autofillselector:menu
         */
         public static int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -9208,7 +9208,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor de.appwerft.autofillerselector:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor de.appwerft.autofillselector:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -9230,7 +9230,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -9240,7 +9240,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:overlapAnchor
+          @attr name de.appwerft.autofillselector:overlapAnchor
         */
         public static int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -9249,7 +9249,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor de.appwerft.autofillerselector:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor de.appwerft.autofillselector:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -9257,7 +9257,7 @@ containing a value of this type.
             0x7f0100d4
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -9267,7 +9267,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:state_above_anchor
+          @attr name de.appwerft.autofillselector:state_above_anchor
         */
         public static int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -9276,8 +9276,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons de.appwerft.autofillerselector:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle de.appwerft.autofillerselector:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons de.appwerft.autofillselector:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle de.appwerft.autofillselector:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -9286,7 +9286,7 @@ containing a value of this type.
             0x7f0100d5, 0x7f0100d6
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -9298,11 +9298,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:paddingBottomNoButtons
+          @attr name de.appwerft.autofillselector:paddingBottomNoButtons
         */
         public static int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -9314,7 +9314,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:paddingTopNoTitle
+          @attr name de.appwerft.autofillselector:paddingTopNoTitle
         */
         public static int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -9325,15 +9325,15 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollEnabled de.appwerft.autofillerselector:fastScrollEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable de.appwerft.autofillerselector:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable de.appwerft.autofillerselector:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable de.appwerft.autofillerselector:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable de.appwerft.autofillerselector:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager de.appwerft.autofillerselector:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout de.appwerft.autofillerselector:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount de.appwerft.autofillerselector:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd de.appwerft.autofillerselector:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollEnabled de.appwerft.autofillselector:fastScrollEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable de.appwerft.autofillselector:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable de.appwerft.autofillselector:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable de.appwerft.autofillselector:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable de.appwerft.autofillselector:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager de.appwerft.autofillselector:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout de.appwerft.autofillselector:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount de.appwerft.autofillselector:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd de.appwerft.autofillselector:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -9365,7 +9365,7 @@ containing a value of this type.
         */
         public static int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fastScrollEnabled}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fastScrollEnabled}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9375,51 +9375,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:fastScrollEnabled
+          @attr name de.appwerft.autofillselector:fastScrollEnabled
         */
         public static int RecyclerView_fastScrollEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fastScrollHorizontalThumbDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fastScrollHorizontalThumbDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:fastScrollHorizontalThumbDrawable
+          @attr name de.appwerft.autofillselector:fastScrollHorizontalThumbDrawable
         */
         public static int RecyclerView_fastScrollHorizontalThumbDrawable = 9;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fastScrollHorizontalTrackDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fastScrollHorizontalTrackDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:fastScrollHorizontalTrackDrawable
+          @attr name de.appwerft.autofillselector:fastScrollHorizontalTrackDrawable
         */
         public static int RecyclerView_fastScrollHorizontalTrackDrawable = 10;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fastScrollVerticalThumbDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fastScrollVerticalThumbDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:fastScrollVerticalThumbDrawable
+          @attr name de.appwerft.autofillselector:fastScrollVerticalThumbDrawable
         */
         public static int RecyclerView_fastScrollVerticalThumbDrawable = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fastScrollVerticalTrackDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fastScrollVerticalTrackDrawable}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:fastScrollVerticalTrackDrawable
+          @attr name de.appwerft.autofillselector:fastScrollVerticalTrackDrawable
         */
         public static int RecyclerView_fastScrollVerticalTrackDrawable = 8;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9429,11 +9429,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:layoutManager
+          @attr name de.appwerft.autofillselector:layoutManager
         */
         public static int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9443,11 +9443,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:reverseLayout
+          @attr name de.appwerft.autofillselector:reverseLayout
         */
         public static int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9457,11 +9457,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:spanCount
+          @attr name de.appwerft.autofillselector:spanCount
         */
         public static int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -9471,7 +9471,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:stackFromEnd
+          @attr name de.appwerft.autofillselector:stackFromEnd
         */
         public static int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -9480,7 +9480,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground de.appwerft.autofillerselector:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground de.appwerft.autofillselector:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -9488,7 +9488,7 @@ containing a value of this type.
             0x7f010143
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -9496,7 +9496,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name de.appwerft.autofillerselector:insetForeground
+          @attr name de.appwerft.autofillselector:insetForeground
         */
         public static int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -9505,7 +9505,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop de.appwerft.autofillerselector:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop de.appwerft.autofillselector:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -9513,7 +9513,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010144
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -9525,7 +9525,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:behavior_overlapTop
+          @attr name de.appwerft.autofillselector:behavior_overlapTop
         */
         public static int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -9538,19 +9538,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon de.appwerft.autofillerselector:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon de.appwerft.autofillerselector:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint de.appwerft.autofillerselector:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon de.appwerft.autofillerselector:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault de.appwerft.autofillerselector:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout de.appwerft.autofillerselector:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground de.appwerft.autofillerselector:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint de.appwerft.autofillerselector:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon de.appwerft.autofillerselector:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon de.appwerft.autofillerselector:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground de.appwerft.autofillerselector:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout de.appwerft.autofillerselector:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon de.appwerft.autofillerselector:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon de.appwerft.autofillselector:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon de.appwerft.autofillselector:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint de.appwerft.autofillselector:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon de.appwerft.autofillselector:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault de.appwerft.autofillselector:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout de.appwerft.autofillselector:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground de.appwerft.autofillselector:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint de.appwerft.autofillselector:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon de.appwerft.autofillselector:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon de.appwerft.autofillselector:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground de.appwerft.autofillselector:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout de.appwerft.autofillselector:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon de.appwerft.autofillselector:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -9602,27 +9602,27 @@ containing a value of this type.
         */
         public static int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:closeIcon
+          @attr name de.appwerft.autofillselector:closeIcon
         */
         public static int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:commitIcon
+          @attr name de.appwerft.autofillselector:commitIcon
         */
         public static int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9632,21 +9632,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:defaultQueryHint
+          @attr name de.appwerft.autofillselector:defaultQueryHint
         */
         public static int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:goIcon
+          @attr name de.appwerft.autofillselector:goIcon
         */
         public static int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9656,31 +9656,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:iconifiedByDefault
+          @attr name de.appwerft.autofillselector:iconifiedByDefault
         */
         public static int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#layout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:layout
+          @attr name de.appwerft.autofillselector:layout
         */
         public static int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:queryBackground
+          @attr name de.appwerft.autofillselector:queryBackground
         */
         public static int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9690,57 +9690,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:queryHint
+          @attr name de.appwerft.autofillselector:queryHint
         */
         public static int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:searchHintIcon
+          @attr name de.appwerft.autofillselector:searchHintIcon
         */
         public static int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:searchIcon
+          @attr name de.appwerft.autofillselector:searchIcon
         */
         public static int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:submitBackground
+          @attr name de.appwerft.autofillselector:submitBackground
         */
         public static int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:suggestionRowLayout
+          @attr name de.appwerft.autofillselector:suggestionRowLayout
         */
         public static int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:voiceIcon
+          @attr name de.appwerft.autofillselector:voiceIcon
         */
         public static int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -9750,8 +9750,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation de.appwerft.autofillerselector:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth de.appwerft.autofillerselector:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation de.appwerft.autofillselector:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth de.appwerft.autofillselector:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -9767,7 +9767,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#elevation}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9779,11 +9779,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:elevation
+          @attr name de.appwerft.autofillselector:elevation
         */
         public static int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9795,7 +9795,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:maxActionInlineWidth
+          @attr name de.appwerft.autofillselector:maxActionInlineWidth
         */
         public static int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -9808,7 +9808,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme de.appwerft.autofillerselector:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme de.appwerft.autofillselector:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -9845,13 +9845,13 @@ containing a value of this type.
         */
         public static int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:popupTheme
+          @attr name de.appwerft.autofillselector:popupTheme
         */
         public static int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -9863,17 +9863,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText de.appwerft.autofillerselector:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack de.appwerft.autofillerselector:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth de.appwerft.autofillerselector:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding de.appwerft.autofillerselector:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance de.appwerft.autofillerselector:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding de.appwerft.autofillerselector:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint de.appwerft.autofillerselector:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode de.appwerft.autofillerselector:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track de.appwerft.autofillerselector:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint de.appwerft.autofillerselector:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode de.appwerft.autofillerselector:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText de.appwerft.autofillselector:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack de.appwerft.autofillselector:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth de.appwerft.autofillselector:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding de.appwerft.autofillselector:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance de.appwerft.autofillselector:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding de.appwerft.autofillselector:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint de.appwerft.autofillselector:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode de.appwerft.autofillselector:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track de.appwerft.autofillselector:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint de.appwerft.autofillselector:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode de.appwerft.autofillselector:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -9915,7 +9915,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#showText}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9925,11 +9925,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:showText
+          @attr name de.appwerft.autofillselector:showText
         */
         public static int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9939,11 +9939,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:splitTrack
+          @attr name de.appwerft.autofillselector:splitTrack
         */
         public static int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9955,11 +9955,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:switchMinWidth
+          @attr name de.appwerft.autofillselector:switchMinWidth
         */
         public static int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9971,21 +9971,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:switchPadding
+          @attr name de.appwerft.autofillselector:switchPadding
         */
         public static int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:switchTextAppearance
+          @attr name de.appwerft.autofillselector:switchTextAppearance
         */
         public static int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9997,11 +9997,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:thumbTextPadding
+          @attr name de.appwerft.autofillselector:thumbTextPadding
         */
         public static int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -10012,11 +10012,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:thumbTint
+          @attr name de.appwerft.autofillselector:thumbTint
         */
         public static int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -10033,21 +10033,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:thumbTintMode
+          @attr name de.appwerft.autofillselector:thumbTintMode
         */
         public static int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#track}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:track
+          @attr name de.appwerft.autofillselector:track
         */
         public static int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -10058,11 +10058,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:trackTint
+          @attr name de.appwerft.autofillselector:trackTint
         */
         public static int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -10079,7 +10079,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:trackTintMode
+          @attr name de.appwerft.autofillselector:trackTintMode
         */
         public static int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -10123,22 +10123,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground de.appwerft.autofillerselector:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart de.appwerft.autofillerselector:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity de.appwerft.autofillerselector:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor de.appwerft.autofillerselector:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight de.appwerft.autofillerselector:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth de.appwerft.autofillerselector:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth de.appwerft.autofillerselector:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode de.appwerft.autofillerselector:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding de.appwerft.autofillerselector:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom de.appwerft.autofillerselector:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd de.appwerft.autofillerselector:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart de.appwerft.autofillerselector:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop de.appwerft.autofillerselector:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor de.appwerft.autofillerselector:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance de.appwerft.autofillerselector:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor de.appwerft.autofillerselector:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground de.appwerft.autofillselector:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart de.appwerft.autofillselector:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity de.appwerft.autofillselector:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor de.appwerft.autofillselector:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight de.appwerft.autofillselector:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth de.appwerft.autofillselector:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth de.appwerft.autofillselector:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode de.appwerft.autofillselector:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding de.appwerft.autofillselector:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom de.appwerft.autofillselector:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd de.appwerft.autofillselector:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart de.appwerft.autofillselector:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop de.appwerft.autofillselector:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor de.appwerft.autofillselector:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance de.appwerft.autofillselector:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor de.appwerft.autofillselector:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -10164,17 +10164,17 @@ containing a value of this type.
             0x7f010152, 0x7f010153, 0x7f010154, 0x7f010155
         };
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:tabBackground
+          @attr name de.appwerft.autofillselector:tabBackground
         */
         public static int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10186,11 +10186,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tabContentStart
+          @attr name de.appwerft.autofillselector:tabContentStart
         */
         public static int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10203,11 +10203,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:tabGravity
+          @attr name de.appwerft.autofillselector:tabGravity
         */
         public static int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10218,11 +10218,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tabIndicatorColor
+          @attr name de.appwerft.autofillselector:tabIndicatorColor
         */
         public static int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10234,11 +10234,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tabIndicatorHeight
+          @attr name de.appwerft.autofillselector:tabIndicatorHeight
         */
         public static int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10250,11 +10250,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tabMaxWidth
+          @attr name de.appwerft.autofillselector:tabMaxWidth
         */
         public static int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10266,11 +10266,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tabMinWidth
+          @attr name de.appwerft.autofillselector:tabMinWidth
         */
         public static int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10283,11 +10283,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:tabMode
+          @attr name de.appwerft.autofillselector:tabMode
         */
         public static int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10299,11 +10299,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tabPadding
+          @attr name de.appwerft.autofillselector:tabPadding
         */
         public static int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10315,11 +10315,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tabPaddingBottom
+          @attr name de.appwerft.autofillselector:tabPaddingBottom
         */
         public static int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10331,11 +10331,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tabPaddingEnd
+          @attr name de.appwerft.autofillselector:tabPaddingEnd
         */
         public static int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10347,11 +10347,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tabPaddingStart
+          @attr name de.appwerft.autofillselector:tabPaddingStart
         */
         public static int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10363,11 +10363,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tabPaddingTop
+          @attr name de.appwerft.autofillselector:tabPaddingTop
         */
         public static int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10378,21 +10378,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tabSelectedTextColor
+          @attr name de.appwerft.autofillselector:tabSelectedTextColor
         */
         public static int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:tabTextAppearance
+          @attr name de.appwerft.autofillselector:tabTextAppearance
         */
         public static int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -10403,7 +10403,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:tabTextColor
+          @attr name de.appwerft.autofillselector:tabTextColor
         */
         public static int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -10423,8 +10423,8 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_fontFamily de.appwerft.autofillerselector:fontFamily}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps de.appwerft.autofillerselector:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_fontFamily de.appwerft.autofillselector:fontFamily}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps de.appwerft.autofillselector:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_fontFamily
            @see #TextAppearance_android_shadowColor
@@ -10513,7 +10513,7 @@ containing a value of this type.
         */
         public static int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#fontFamily}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#fontFamily}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
@@ -10523,18 +10523,18 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:fontFamily
+          @attr name de.appwerft.autofillselector:fontFamily
         */
         public static int TextAppearance_fontFamily = 12;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name de.appwerft.autofillerselector:textAllCaps
+          @attr name de.appwerft.autofillselector:textAllCaps
         */
         public static int TextAppearance_textAllCaps = 11;
         /** Attributes that can be used with a TextInputLayout.
@@ -10545,20 +10545,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled de.appwerft.autofillerselector:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength de.appwerft.autofillerselector:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance de.appwerft.autofillerselector:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance de.appwerft.autofillerselector:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled de.appwerft.autofillerselector:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance de.appwerft.autofillerselector:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled de.appwerft.autofillerselector:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled de.appwerft.autofillerselector:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance de.appwerft.autofillerselector:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription de.appwerft.autofillerselector:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable de.appwerft.autofillerselector:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled de.appwerft.autofillerselector:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint de.appwerft.autofillerselector:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode de.appwerft.autofillerselector:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled de.appwerft.autofillselector:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength de.appwerft.autofillselector:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance de.appwerft.autofillselector:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance de.appwerft.autofillselector:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled de.appwerft.autofillselector:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance de.appwerft.autofillselector:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled de.appwerft.autofillselector:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled de.appwerft.autofillselector:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance de.appwerft.autofillselector:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription de.appwerft.autofillselector:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable de.appwerft.autofillselector:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled de.appwerft.autofillselector:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint de.appwerft.autofillselector:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode de.appwerft.autofillselector:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -10596,7 +10596,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10606,11 +10606,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:counterEnabled
+          @attr name de.appwerft.autofillselector:counterEnabled
         */
         public static int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10620,31 +10620,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:counterMaxLength
+          @attr name de.appwerft.autofillselector:counterMaxLength
         */
         public static int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:counterOverflowTextAppearance
+          @attr name de.appwerft.autofillselector:counterOverflowTextAppearance
         */
         public static int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:counterTextAppearance
+          @attr name de.appwerft.autofillselector:counterTextAppearance
         */
         public static int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10654,21 +10654,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:errorEnabled
+          @attr name de.appwerft.autofillselector:errorEnabled
         */
         public static int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:errorTextAppearance
+          @attr name de.appwerft.autofillselector:errorTextAppearance
         */
         public static int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10678,11 +10678,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:hintAnimationEnabled
+          @attr name de.appwerft.autofillselector:hintAnimationEnabled
         */
         public static int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10692,21 +10692,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:hintEnabled
+          @attr name de.appwerft.autofillselector:hintEnabled
         */
         public static int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:hintTextAppearance
+          @attr name de.appwerft.autofillselector:hintTextAppearance
         */
         public static int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10716,21 +10716,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:passwordToggleContentDescription
+          @attr name de.appwerft.autofillselector:passwordToggleContentDescription
         */
         public static int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:passwordToggleDrawable
+          @attr name de.appwerft.autofillselector:passwordToggleDrawable
         */
         public static int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10740,11 +10740,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:passwordToggleEnabled
+          @attr name de.appwerft.autofillselector:passwordToggleEnabled
         */
         public static int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10755,11 +10755,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:passwordToggleTint
+          @attr name de.appwerft.autofillselector:passwordToggleTint
         */
         public static int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10775,7 +10775,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:passwordToggleTintMode
+          @attr name de.appwerft.autofillselector:passwordToggleTintMode
         */
         public static int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -10786,33 +10786,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity de.appwerft.autofillerselector:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription de.appwerft.autofillerselector:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon de.appwerft.autofillerselector:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd de.appwerft.autofillerselector:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions de.appwerft.autofillerselector:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft de.appwerft.autofillerselector:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight de.appwerft.autofillerselector:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart de.appwerft.autofillerselector:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation de.appwerft.autofillerselector:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo de.appwerft.autofillerselector:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription de.appwerft.autofillerselector:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight de.appwerft.autofillerselector:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription de.appwerft.autofillerselector:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon de.appwerft.autofillerselector:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme de.appwerft.autofillerselector:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle de.appwerft.autofillerselector:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance de.appwerft.autofillerselector:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor de.appwerft.autofillerselector:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title de.appwerft.autofillerselector:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin de.appwerft.autofillerselector:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom de.appwerft.autofillerselector:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd de.appwerft.autofillerselector:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart de.appwerft.autofillerselector:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop de.appwerft.autofillerselector:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins de.appwerft.autofillerselector:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance de.appwerft.autofillerselector:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor de.appwerft.autofillerselector:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity de.appwerft.autofillselector:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription de.appwerft.autofillselector:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon de.appwerft.autofillselector:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd de.appwerft.autofillselector:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions de.appwerft.autofillselector:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft de.appwerft.autofillselector:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight de.appwerft.autofillselector:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart de.appwerft.autofillselector:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation de.appwerft.autofillselector:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo de.appwerft.autofillselector:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription de.appwerft.autofillselector:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight de.appwerft.autofillselector:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription de.appwerft.autofillselector:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon de.appwerft.autofillselector:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme de.appwerft.autofillselector:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle de.appwerft.autofillselector:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance de.appwerft.autofillselector:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor de.appwerft.autofillselector:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title de.appwerft.autofillselector:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin de.appwerft.autofillselector:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom de.appwerft.autofillselector:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd de.appwerft.autofillselector:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart de.appwerft.autofillselector:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop de.appwerft.autofillselector:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins de.appwerft.autofillselector:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance de.appwerft.autofillselector:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor de.appwerft.autofillselector:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -10867,7 +10867,7 @@ containing a value of this type.
         */
         public static int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10880,11 +10880,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:buttonGravity
+          @attr name de.appwerft.autofillselector:buttonGravity
         */
         public static int Toolbar_buttonGravity = 20;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10894,21 +10894,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:collapseContentDescription
+          @attr name de.appwerft.autofillselector:collapseContentDescription
         */
         public static int Toolbar_collapseContentDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:collapseIcon
+          @attr name de.appwerft.autofillselector:collapseIcon
         */
         public static int Toolbar_collapseIcon = 21;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10920,11 +10920,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentInsetEnd
+          @attr name de.appwerft.autofillselector:contentInsetEnd
         */
         public static int Toolbar_contentInsetEnd = 5;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10936,11 +10936,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentInsetEndWithActions
+          @attr name de.appwerft.autofillselector:contentInsetEndWithActions
         */
         public static int Toolbar_contentInsetEndWithActions = 9;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10952,11 +10952,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentInsetLeft
+          @attr name de.appwerft.autofillselector:contentInsetLeft
         */
         public static int Toolbar_contentInsetLeft = 6;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10968,11 +10968,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentInsetRight
+          @attr name de.appwerft.autofillselector:contentInsetRight
         */
         public static int Toolbar_contentInsetRight = 7;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10984,11 +10984,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentInsetStart
+          @attr name de.appwerft.autofillselector:contentInsetStart
         */
         public static int Toolbar_contentInsetStart = 4;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11000,21 +11000,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:contentInsetStartWithNavigation
+          @attr name de.appwerft.autofillselector:contentInsetStartWithNavigation
         */
         public static int Toolbar_contentInsetStartWithNavigation = 8;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#logo}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:logo
+          @attr name de.appwerft.autofillselector:logo
         */
         public static int Toolbar_logo = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11024,11 +11024,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:logoDescription
+          @attr name de.appwerft.autofillselector:logoDescription
         */
         public static int Toolbar_logoDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11040,11 +11040,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:maxButtonHeight
+          @attr name de.appwerft.autofillselector:maxButtonHeight
         */
         public static int Toolbar_maxButtonHeight = 19;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11054,31 +11054,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:navigationContentDescription
+          @attr name de.appwerft.autofillselector:navigationContentDescription
         */
         public static int Toolbar_navigationContentDescription = 24;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:navigationIcon
+          @attr name de.appwerft.autofillselector:navigationIcon
         */
         public static int Toolbar_navigationIcon = 23;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:popupTheme
+          @attr name de.appwerft.autofillselector:popupTheme
         */
         public static int Toolbar_popupTheme = 10;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11088,21 +11088,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:subtitle
+          @attr name de.appwerft.autofillselector:subtitle
         */
         public static int Toolbar_subtitle = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:subtitleTextAppearance
+          @attr name de.appwerft.autofillselector:subtitleTextAppearance
         */
         public static int Toolbar_subtitleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11113,11 +11113,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:subtitleTextColor
+          @attr name de.appwerft.autofillselector:subtitleTextColor
         */
         public static int Toolbar_subtitleTextColor = 27;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#title}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11127,11 +11127,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:title
+          @attr name de.appwerft.autofillselector:title
         */
         public static int Toolbar_title = 28;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11143,11 +11143,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:titleMargin
+          @attr name de.appwerft.autofillselector:titleMargin
         */
         public static int Toolbar_titleMargin = 13;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11159,11 +11159,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:titleMarginBottom
+          @attr name de.appwerft.autofillselector:titleMarginBottom
         */
         public static int Toolbar_titleMarginBottom = 17;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11175,11 +11175,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:titleMarginEnd
+          @attr name de.appwerft.autofillselector:titleMarginEnd
         */
         public static int Toolbar_titleMarginEnd = 15;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11191,11 +11191,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:titleMarginStart
+          @attr name de.appwerft.autofillselector:titleMarginStart
         */
         public static int Toolbar_titleMarginStart = 14;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11207,11 +11207,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:titleMarginTop
+          @attr name de.appwerft.autofillselector:titleMarginTop
         */
         public static int Toolbar_titleMarginTop = 16;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11223,21 +11223,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:titleMargins
+          @attr name de.appwerft.autofillselector:titleMargins
         */
         public static int Toolbar_titleMargins = 18;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:titleTextAppearance
+          @attr name de.appwerft.autofillselector:titleTextAppearance
         */
         public static int Toolbar_titleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -11248,7 +11248,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:titleTextColor
+          @attr name de.appwerft.autofillselector:titleTextColor
         */
         public static int Toolbar_titleTextColor = 26;
         /** Attributes that can be used with a View.
@@ -11259,9 +11259,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd de.appwerft.autofillerselector:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart de.appwerft.autofillerselector:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme de.appwerft.autofillerselector:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd de.appwerft.autofillselector:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart de.appwerft.autofillselector:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme de.appwerft.autofillselector:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -11286,7 +11286,7 @@ containing a value of this type.
         */
         public static int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -11298,11 +11298,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:paddingEnd
+          @attr name de.appwerft.autofillselector:paddingEnd
         */
         public static int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -11314,17 +11314,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:paddingStart
+          @attr name de.appwerft.autofillselector:paddingStart
         */
         public static int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#theme}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name de.appwerft.autofillerselector:theme
+          @attr name de.appwerft.autofillselector:theme
         */
         public static int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -11334,8 +11334,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint de.appwerft.autofillerselector:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode de.appwerft.autofillerselector:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint de.appwerft.autofillselector:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode de.appwerft.autofillselector:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -11351,7 +11351,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -11362,11 +11362,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name de.appwerft.autofillerselector:backgroundTint
+          @attr name de.appwerft.autofillselector:backgroundTint
         */
         public static int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link de.appwerft.autofillerselector.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link de.appwerft.autofillselector.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -11383,7 +11383,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name de.appwerft.autofillerselector:backgroundTintMode
+          @attr name de.appwerft.autofillselector:backgroundTintMode
         */
         public static int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

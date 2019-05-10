@@ -1,4 +1,4 @@
-# Main NDK build script for de.appwerft.autofillerselector
+# Main NDK build script for de.appwerft.autofillselector
 
 APP_BUILD_SCRIPT := jni/Android.mk
 TARGET_PLATFORM := android-19

@@ -5,14 +5,14 @@
 version: 1.0.0
 apiversion: 4
 architectures: arm64-v8a armeabi-v7a x86
-description: autofillerselector
-author: Rainer
-license: Specify your license
+description: autofillselector
+author: Rainer Schleevoigt
+license: MIT
 copyright: Copyright (c) 2019 by Your Company
 
 # these should not be edited
-name: autofillerselector
-moduleid: de.appwerft.autofillerselector
+name: autofillselector
+moduleid: de.appwerft.autofillselector
 guid: e870f22a-12c6-43ec-b41c-fb88d368642b
 platform: android
 minsdk: 8.0.0.GA

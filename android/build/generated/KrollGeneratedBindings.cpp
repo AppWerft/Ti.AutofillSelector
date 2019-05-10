@@ -9,7 +9,7 @@
 #include <unordered_map>
 #include <KrollBindings.h>
 
-#include "de.appwerft.autofillerselector.AutofillerselectorModule.h"
+#include "de.appwerft.autofillselector.AutofillselectorModule.h"
 
 
 namespace titanium {
@@ -44,7 +44,7 @@ namespace titanium {
 
 		BindEntry* AutofillerselectorBindings::lookupGeneratedInit(const char* name, unsigned int length) {
 			static BindEntry binds[] = {
-				{"de.appwerft.autofillerselector.AutofillerselectorModule", ::de::appwerft::autofillerselector::AutofillerselectorModule::bindProxy, ::de::appwerft::autofillerselector::AutofillerselectorModule::dispose}
+				{"de.appwerft.autofillselector.AutofillselectorModule", ::de::appwerft::autofillselector::AutofillselectorModule::bindProxy, ::de::appwerft::autofillselector::AutofillselectorModule::dispose}
 			};
 			static std::unordered_map<const char*, BindEntry&, Hash, Compare> map = {
 				{binds[0].name, binds[0]},

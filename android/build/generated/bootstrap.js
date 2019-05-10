@@ -16,7 +16,7 @@ function moduleBootstrap(moduleBinding) {
 			name, namespace, moduleBinding.getBinding);
 	}
 
-	var module = moduleBinding.getBinding("de.appwerft.autofillerselector.AutofillerselectorModule")["Autofillerselector"];
+	var module = moduleBinding.getBinding("de.appwerft.autofillselector.AutofillselectorModule")["Autofillerselector"];
 	var invocationAPIs = module.invocationAPIs = [];
 	module.apiName = "Autofillerselector";
 

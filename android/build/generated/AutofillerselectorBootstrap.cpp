@@ -18,7 +18,7 @@
 #include "BootstrapJS.cpp"
 #include "KrollGeneratedBindings.cpp"
 
-#define TAG "de.appwerft.autofillerselector"
+#define TAG "de.appwerft.autofillselector"
 
 using namespace v8;
 
@@ -113,16 +113,16 @@ static void Autofillerselector_dispose(Isolate* isolate)
 }
 
 static titanium::bindings::BindEntry AutofillerselectorBinding = {
-	"de.appwerft.autofillerselector",
+	"de.appwerft.autofillselector",
 	Autofillerselector_init,
 	Autofillerselector_dispose
 };
 
 // Main module entry point
 extern "C" JNIEXPORT void JNICALL
-Java_de_appwerft_autofillerselector_AutofillerselectorBootstrap_nativeBootstrap
+Java_de_appwerft_autofillselector_AutofillerselectorBootstrap_nativeBootstrap
 	(JNIEnv *env, jobject self)
 {
-	titanium::KrollBindings::addExternalBinding("de.appwerft.autofillerselector", &AutofillerselectorBinding);
+	titanium::KrollBindings::addExternalBinding("de.appwerft.autofillselector", &AutofillerselectorBinding);
 	titanium::KrollBindings::addExternalLookup(&(titanium::bindings::AutofillerselectorBindings::lookupGeneratedInit));
 }
