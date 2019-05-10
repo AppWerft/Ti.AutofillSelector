@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:module xmlns:ti="http://ti.appcelerator.org" xmlns:android="http://schemas.android.com/apk/res/android">
+	<iphone>
+	</iphone>
+	<android xmlns:android="http://schemas.android.com/apk/res/android">
+	<manifest>
+		<application>
+			<service
+    				android:name="de.appwerft.autofillservice.TiAutofillService"
+    				android:label="Forghetty"
+    				android:permission="android.permission.BIND_AUTOFILL_SERVICE">
+    				<intent-filter>
+        				<action android:name="android.service.autofill.AutofillService" />
+    				</intent-filter>
+    			<meta-data >
+    			<autofill-service android:settingsActivity="org.appcelerator.titanium.TiActivity" />
+    			</meta-data>	
+			</service>
+		</application>
+		<uses-permission android:name="android.permission.BIND_AUTOFILL_SERVICE" />
+	</manifest>
+	</android>
+</ti:module>
