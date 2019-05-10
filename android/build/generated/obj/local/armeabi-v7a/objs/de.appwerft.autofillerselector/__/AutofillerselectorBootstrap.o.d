@@ -1,4 +1,4 @@
-/Users/fuerst/Documents/APPC_WORKSPACE/Ti.AutofillerSelector/android/build/generated/obj/local/armeabi-v7a/objs/de.appwerft.autofillerselector/__/AutofillerselectorBootstrap.o: \
+/Users/fuerst/Documents/APPC_WORKSPACE/Ti.AutofillSelector/android/build/generated/obj/local/armeabi-v7a/objs/de.appwerft.autofillerselector/__/AutofillerselectorBootstrap.o: \
  jni/../AutofillerselectorBootstrap.cpp \
  /Users/fuerst/Library/Application\ Support/Titanium/mobilesdk/osx/8.0.0.GA/android/native/include/v8.h \
  /Users/fuerst/Library/Android/ndk/sources/cxx-stl/llvm-libc++/../../android/support/include/stdint.h \

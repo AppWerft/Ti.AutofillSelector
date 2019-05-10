@@ -1,4 +1,4 @@
-/Users/fuerst/Documents/APPC_WORKSPACE/Ti.AutofillerSelector/android/build/generated/obj/local/x86/objs/de.appwerft.autofillerselector/de.appwerft.autofillerselector.AutofillerselectorModule.o: \
+/Users/fuerst/Documents/APPC_WORKSPACE/Ti.AutofillSelector/android/build/generated/obj/local/x86/objs/de.appwerft.autofillerselector/de.appwerft.autofillerselector.AutofillerselectorModule.o: \
  jni/de.appwerft.autofillerselector.AutofillerselectorModule.cpp \
  jni/de.appwerft.autofillerselector.AutofillerselectorModule.h \
  /Users/fuerst/Library/Application\ Support/Titanium/mobilesdk/osx/8.0.0.GA/android/native/include/Proxy.h \
