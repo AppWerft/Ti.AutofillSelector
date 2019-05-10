@@ -7,13 +7,13 @@ This axway's Titanium module is a little helper for selecting the right autofill
 ## Usage
 
 ```js
-const AF = require('de.appwerft.autofillselector');
+import AF from 'de.appwerft.autofillselector';
 const $ = Ti.UI.createWindow();
 
-$.addEventListener('open', function() {
-		AF.onResult = function(e) {
+$.addEventListener('open', () => {
+		AF.onResult = e => {
 		if (e.success == true) {
-					
+			// do something		
 		}
 	};
 	const res = AF.hasEnabledAutofillServices();
